@@ -5,9 +5,40 @@
 		"nom": "Saumon atlantique",
 		"descriptionPart1": "Pendant ses premières années d'existence (2 - 3 ans en France et 4 - 5 ans en Norvège), le saumon vit en haut des rivières à fort courants dans des zones peu profondes.",
 		"descriptionPart2": "Il va ensuite vivre dans l'océan athantique puis il retourne dans la rivière qui l'a vu naître grâce à sa mémoire olfactive pour se reproduire avant de retourner dans l'océan.",
-		"gridRow" : "1 / span 1",
+		"gridRow": "1 / span 1",
 		"gridColumn": "1 / span 2"
-	  }
-
+	},
+	{
+		"id": "lamantin",
+		"img": "lamantin.png",
+		"nom": "Lamantin",
+		"descriptionPart1": "Les lamantins sont un genre de gros mammifères aquatiques herbivores, au corps fuselé, vivant en eaux littorales peu profondes, dans les lagunes ou l'embouchure des fleuves et les marais côtiers de la zone tropicale de l'océan Atlantique. Ce sont des animaux paisibles qui ont besoin d'une eau d'au moins 20 °C pour vivre.",
+		"gridRow": "1 / span 2",
+		"gridColumn": "4 / span 2"
+	},
+	{
+		"id": "poisson-scie",
+		"img": "poisson-scie.png",
+		"nom": "Poisson scie",
+		"descriptionPart1": "Les poissons-scies sont une famille de raies. Ils se distinguent par le prolongement osseux de leur museau quimesure jusqu’à deux mètres et comporte une vingtaine de dents longues de deux centimètres, disposées perpendiculairement, ce qui donne au tout l’apparence d’une scie.",
+		"descriptionPart2": "Ils peuvent mesurer d'un à sept mètres, selon les espèces.",
+		"gridRow": "2 / span 2",
+		"gridColumn": "7 / span 2"
+	},
+	{
+		"id": "esturgeon-blanc",
+		"img": "esturgeon-blanc.png",
+		"nom": "Esturgeon blanc",
+		"descriptionPart1": "L'esturgeon blanc est un poisson qui migre entre les grands fleuves de la côte Ouest américaine et l’océan Pacifique (baie de San Francisco ou de Vancouver). Il pèse dans les 200 kg et ne dépasse qu’exceptionnellement les 500 kg et les 4 m de long.",
+		"gridRow": "5 / span 3",
+		"gridColumn": "2 / span 2"
+	},
+	{
+		"id": "congre-vert",
+		"img": "congre-vert.png",
+		"nom": "Congre vert",
+		"descriptionPart1": "Le congre vert fait partie de la famille des murènes. Les poissons de cette famille sont caractérisés par l’absence de nageoires paires, une peau lisse et épaisse sans écailles.",
+		"gridRow": "14 / span 3",
+		"gridColumn": "7 / span 1"
+	}
 ]
-
