@@ -3,7 +3,7 @@
 		"id": "atlantic-salmon",
 		"img": "atlantic-salmon.png",
 		"nom": "Saumon atlantique"
-		"description": "Pendant ses premières années d'existence (2 - 3 ans en France et 4 - 5 ans en Norvège), le saumon vit en haut des rivières à fort courants dans des zones peu profondes. \n\n Il va ensuite vivre dans l'océan athantique puis il retourne dans la rivière qui l'a vu naître grâce à sa mémoire olfactive pour se reproduire avant de retourner dans l'océan.",
+		"description": "Pendant ses premières années d'existence (2 - 3 ans en France et 4 - 5 ans en Norvège), le saumon vit en haut des rivières à fort courants dans des zones peu profondes. Il va ensuite vivre dans l'océan athantique puis il retourne dans la rivière qui l'a vu naître grâce à sa mémoire olfactive pour se reproduire avant de retourner dans l'océan.",
 		"gridRow" : "1 / span 1",
 		"gridColumn": "1 / span 2"
 	  }
