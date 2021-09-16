@@ -38,6 +38,49 @@
 		"sources":""
 	},
 	{
+		"id": "amoco-cadiz",
+		"img": "vlcc.png",
+		"nom": "Amoco Cadiz",
+		"descriptionPart1": "Le 16 mars 1978, dans le Finistère, l’Amoco Cadiz est en route pour Rotterdam avec à son bord 220 000 tonnes de pétrole brut, suite à une avarie il devient impossible de diriger le bateau.",
+		"descriptionPart2":"Après plusieurs tentatives infructueuses de remorquage, le pétrolier heurte des rochers et s’échoue. L’équipage sera évacué et l’une des plus terribles marées noires de l’histoire va souiller les côtes bretonnes.",
+		"descriptionPart3": "Son épave est à 30 m de profondeur.",
+		"gridRow": "5 / span 9",
+		"gridColumn": "4 / span 4",
+		"sources":""
+	},
+	{
+		"id": "tortue-verte",
+		"img": "tortue-verte.png",
+		"nom": "Tortue verte",
+		"descriptionPart1": "Leur carapace mesure en moyenne 115 cm et l'animal pèse entre 80 et 130 kg. Certains spécimens peuvent atteindre un poids de 300 kg pour une longueur de carapace de 1,5 m.",
+		"descriptionPart2":"C’est la plus rapide des tortues marines : elle peut atteindre une vitesse de près de 35 km/h",
+		"gridRow": "9 / span 3",
+		"gridColumn": "7 / span 2",
+		"sources":""
+	},
+	{
+		"id": "poisson-clown",
+		"img": "poisson-clown.png",
+		"nom": "Poisson clown",
+		"descriptionPart1": "Ce sont des poissons d'une dizaine de centimètres dans les tons d'orange et de noir. Certaines espèces présentent des bandes ou des barres blanches.",
+		"descriptionPart2":"Les poissons-clowns sont des espèces qui fréquentent les lagons et les récifs coralliens jusqu'à 40 m de profondeur.",
+		"descriptionPart3":"Ils sont principalement connus pour la relation mutualiste qu'ils forment avec dix espèces d'anémones de mer — normalement mortelles pour les poissons.",
+		"gridRow": "12 / span 1",
+		"gridColumn": "1 / span 2",
+		"sources":"https://fr.wikipedia.org/wiki/Poisson-clown"
+	},
+	{
+		"id": "chirurgien-bleu",
+		"img": "chirurgien-bleu.png",
+		"nom": "Chirurgien bleu",
+		"descriptionPart1": "Il s'agit d'un poisson marin qui se rencontre dans la région Indo-Pacifique et dont la taille maximale connue est de 31 cm.",
+		"descriptionPart2":"Le chirurgien bleu fréquente les zones de 2 à 40 mètres de profondeur, notamment au niveau des récifs.",
+		"descriptionPart3":"Il se nourrit principalement de zooplancton mais peut s'alimenter aussi d’algues vivant sur les fonds marins. Pour se défendre de ses prédateurs, il a une épine cachée contre son corps à la base de sa queue.",
+		"gridRow": "12 / span 2",
+		"gridColumn": "3 / span 2",
+		"sources":""
+	},
+	{
 		"id": "congre-vert",
 		"img": "congre-vert.png",
 		"nom": "Congre vert",
@@ -45,5 +88,17 @@
 		"gridRow": "14 / span 3",
 		"gridColumn": "7 / span 1",
 		"sources":""
+	},
+	{
+		"id": "barracuda",
+		"img": "barracuda.png",
+		"nom": "Barracuda",
+		"descriptionPart1": "Le barracuda est une espèce de poissons carnivores pouvant mesurer jusqu'à 2 m de long pour 50 kg",
+		"descriptionPart2": "Ils se rencontrent entre la surface et une trentaine de mètres de profondeur, parfois jusqu'à 100 m"
+		"gridRow": "16 / span 2",
+		"gridColumn": "2 / span 2",
+		"sources":"https://www.fishipedia.fr/fr/poissons/sphyraena-barracuda"
 	}
+
+	
 ]
