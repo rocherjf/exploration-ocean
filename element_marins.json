@@ -7,7 +7,9 @@
 		"descriptionPart2": "Il va ensuite vivre dans l'océan athantique puis il retourne dans la rivière qui l'a vu naître grâce à sa mémoire olfactive pour se reproduire avant de retourner dans l'océan.",
 		"gridRow": "1 / span 1",
 		"gridColumn": "1 / span 2",
-		"sources":["https://www.fishipedia.fr/fr/poissons?sch=saumon"]
+		"sources": [
+			"https://www.fishipedia.fr/fr/poissons?sch=saumon"
+		]
 	},
 	{
 		"id": "lamantin",
@@ -16,7 +18,7 @@
 		"descriptionPart1": "Les lamantins sont un genre de gros mammifères aquatiques herbivores, au corps fuselé, vivant en eaux littorales peu profondes, dans les lagunes ou l'embouchure des fleuves et les marais côtiers de la zone tropicale de l'océan Atlantique. Ce sont des animaux paisibles qui ont besoin d'une eau d'au moins 20 °C pour vivre.",
 		"gridRow": "1 / span 2",
 		"gridColumn": "4 / span 2",
-		"sources":""
+		"sources": ""
 	},
 	{
 		"id": "poisson-scie",
@@ -26,7 +28,7 @@
 		"descriptionPart2": "Ils peuvent mesurer d'un à sept mètres, selon les espèces.",
 		"gridRow": "2 / span 2",
 		"gridColumn": "7 / span 2",
-		"sources":""
+		"sources": ""
 	},
 	{
 		"id": "esturgeon-blanc",
@@ -35,50 +37,50 @@
 		"descriptionPart1": "L'esturgeon blanc est un poisson qui migre entre les grands fleuves de la côte Ouest américaine et l’océan Pacifique (baie de San Francisco ou de Vancouver). Il pèse dans les 200 kg et ne dépasse qu’exceptionnellement les 500 kg et les 4 m de long.",
 		"gridRow": "5 / span 3",
 		"gridColumn": "2 / span 2",
-		"sources":""
+		"sources": ""
 	},
 	{
 		"id": "amoco-cadiz",
 		"img": "vlcc.png",
 		"nom": "Amoco Cadiz",
 		"descriptionPart1": "Le 16 mars 1978, dans le Finistère, l’Amoco Cadiz est en route pour Rotterdam avec à son bord 220 000 tonnes de pétrole brut, suite à une avarie il devient impossible de diriger le bateau.",
-		"descriptionPart2":"Après plusieurs tentatives infructueuses de remorquage, le pétrolier heurte des rochers et s’échoue. L’équipage sera évacué et l’une des plus terribles marées noires de l’histoire va souiller les côtes bretonnes.",
+		"descriptionPart2": "Après plusieurs tentatives infructueuses de remorquage, le pétrolier heurte des rochers et s’échoue. L’équipage sera évacué et l’une des plus terribles marées noires de l’histoire va souiller les côtes bretonnes.",
 		"descriptionPart3": "Son épave est à 30 m de profondeur.",
 		"gridRow": "5 / span 9",
 		"gridColumn": "4 / span 4",
-		"sources":""
+		"sources": ""
 	},
 	{
 		"id": "tortue-verte",
 		"img": "tortue-verte.png",
 		"nom": "Tortue verte",
 		"descriptionPart1": "Leur carapace mesure en moyenne 115 cm et l'animal pèse entre 80 et 130 kg. Certains spécimens peuvent atteindre un poids de 300 kg pour une longueur de carapace de 1,5 m.",
-		"descriptionPart2":"C’est la plus rapide des tortues marines : elle peut atteindre une vitesse de près de 35 km/h",
+		"descriptionPart2": "C’est la plus rapide des tortues marines : elle peut atteindre une vitesse de près de 35 km/h",
 		"gridRow": "9 / span 3",
 		"gridColumn": "7 / span 2",
-		"sources":""
+		"sources": ""
 	},
 	{
 		"id": "poisson-clown",
 		"img": "poisson-clown.png",
 		"nom": "Poisson clown",
 		"descriptionPart1": "Ce sont des poissons d'une dizaine de centimètres dans les tons d'orange et de noir. Certaines espèces présentent des bandes ou des barres blanches.",
-		"descriptionPart2":"Les poissons-clowns sont des espèces qui fréquentent les lagons et les récifs coralliens jusqu'à 40 m de profondeur.",
-		"descriptionPart3":"Ils sont principalement connus pour la relation mutualiste qu'ils forment avec dix espèces d'anémones de mer — normalement mortelles pour les poissons.",
+		"descriptionPart2": "Les poissons-clowns sont des espèces qui fréquentent les lagons et les récifs coralliens jusqu'à 40 m de profondeur.",
+		"descriptionPart3": "Ils sont principalement connus pour la relation mutualiste qu'ils forment avec dix espèces d'anémones de mer — normalement mortelles pour les poissons.",
 		"gridRow": "12 / span 1",
 		"gridColumn": "1 / span 2",
-		"sources":"https://fr.wikipedia.org/wiki/Poisson-clown"
+		"sources": "https://fr.wikipedia.org/wiki/Poisson-clown"
 	},
 	{
 		"id": "chirurgien-bleu",
 		"img": "chirurgien-bleu.png",
 		"nom": "Chirurgien bleu",
 		"descriptionPart1": "Il s'agit d'un poisson marin qui se rencontre dans la région Indo-Pacifique et dont la taille maximale connue est de 31 cm.",
-		"descriptionPart2":"Le chirurgien bleu fréquente les zones de 2 à 40 mètres de profondeur, notamment au niveau des récifs.",
-		"descriptionPart3":"Il se nourrit principalement de zooplancton mais peut s'alimenter aussi d’algues vivant sur les fonds marins. Pour se défendre de ses prédateurs, il a une épine cachée contre son corps à la base de sa queue.",
+		"descriptionPart2": "Le chirurgien bleu fréquente les zones de 2 à 40 mètres de profondeur, notamment au niveau des récifs.",
+		"descriptionPart3": "Il se nourrit principalement de zooplancton mais peut s'alimenter aussi d’algues vivant sur les fonds marins. Pour se défendre de ses prédateurs, il a une épine cachée contre son corps à la base de sa queue.",
 		"gridRow": "12 / span 2",
 		"gridColumn": "3 / span 2",
-		"sources":""
+		"sources": ""
 	},
 	{
 		"id": "congre-vert",
@@ -87,7 +89,7 @@
 		"descriptionPart1": "Le congre vert fait partie de la famille des murènes. Les poissons de cette famille sont caractérisés par l’absence de nageoires paires, une peau lisse et épaisse sans écailles.",
 		"gridRow": "14 / span 3",
 		"gridColumn": "7 / span 1",
-		"sources":""
+		"sources": ""
 	},
 	{
 		"id": "barracuda",
@@ -97,8 +99,67 @@
 		"descriptionPart2": "Ils se rencontrent entre la surface et une trentaine de mètres de profondeur, parfois jusqu'à 100 m",
 		"gridRow": "16 / span 2",
 		"gridColumn": "2 / span 2",
-		"sources":"https://www.fishipedia.fr/fr/poissons/sphyraena-barracuda"
+		"sources": "https://www.fishipedia.fr/fr/poissons/sphyraena-barracuda"
+	},
+	{
+		"id": "torpedo",
+		"img": "torpedo.png",
+		"nom": "Torpedo",
+		"descriptionPart1": "Torpedo est un terme regroupant 22 espèces de poissons. Ces poissons ont la capacité de produire de l'électricité comme moyen de défense ou de prédation.",
+		"descriptionPart2": "L'espèce la plus grande est Torpedo nobiliana, la torpille noire, qui peut peser jusqu'à 90 kg et délivrer des chocs électriques de 60 à 230 volts et dépassant les 30 ampères.",
+		"gridRow": "16 / span 2",
+		"gridColumn": "5 / span 2",
+		"sources": ""
+	},
+	{
+		"id": "requin-bouledogue",
+		"img": "requin-bouledogue.png",
+		"nom": "Requin bouledogue",
+		"descriptionPart1": "On peut trouver le requin bouledogue à la surface de l'océan et jusqu'à 150m de profondeur.",
+		"descriptionPart2": "Il peut aussi dans les fleuves parfois à des endroits très éloigné de l'océan. Il a été ainsi observé dans l'Amazone au Pérou, soit à plus de 3 700 km de la côte.",
+		"gridRow": "19 / span 6",
+		"gridColumn": "3 / span 3",
+		"sources": "https://www.fishipedia.fr/fr/poissons/carcharhinus-leucas"
+	},
+	{
+		"id": "liopropoma-carmabi",
+		"img": "liopropoma-carmabi.png",
+		"nom": "Liopropoma carmabi",
+		"descriptionPart1": "Petit poisson qui peut atteindre les 5 cm, il est néanmoins très visible,ce qui explique sans doute qu'il se cache dans les récifs à une profondeur entre 25 et 100m.",
+		"descriptionPart2": "A cause de son phénotype très coloré ce poisson est recherché pour les aquariums.",
+		"gridRow": "25 / span 1",
+		"gridColumn": "6 / span 2",
+		"sources": "https://en.wikipedia.org/wiki/Liopropoma_carmabi"
+	},
+	{
+		"id": "hippocampe",
+		"img": "hippocampe.png",
+		"nom": "Hippocampe",
+		"descriptionPart1": "Il existe plus de 50 d'hippocampes différents, une de leur particularité étant que c'est le mâle qui effectue la gestation de 5 à 1 800 œufs pondus dans sa poche ventrale par la femelle",
+		"descriptionPart2": "La profondeur à laquelle vit un hippocampe dépent beaucoup de son espéce. Pour les Hippocampe ailé : 5 - 80m",
+		"gridRow": "27 / span 3",
+		"gridColumn": "2 / span 2",
+		"sources": ""
+	},
+	{
+		"id": "saumonee-leopard",
+		"img": "plectropomus-leopardus.png",
+		"nom": "Saumonée léopard",
+		"descriptionPart1": "Ces poissons naissent femelles puis deviennent males au cours de leur vie. On parle d'hermaphrodisme successif.",
+		"descriptionPart2": "Ils vivent à une profondeur qui varie entre 5 et 100m.",
+		"gridRow": "28 / span 2",
+		"gridColumn": "5 / span 2",
+		"sources": ""
+	},
+	{
+		"id": "grand-requin-marteau",
+		"img": "grand-requin-marteau.png",
+		"nom": "Grand Requin marteau",
+		"descriptionPart1": "Le grand requin-marteau vit dans les océans tropicaux et quelques mers. Ses larges extensions aplaties de part et d'autre de la tête permettent de prendre des virages plus serrés que les autres requins.",
+		"descriptionPart2": "Le grand requin-marteau mesure entre 3,5 et 6 m de long et peut peser jusqu'à 500 kg. Le record en longueur est détenu par un mâle de 6,1 m. Le grand requin-marteau le plus lourd est une femelle de 580 kg mesurant 4,4 m de long.",
+		"descriptionPart3": "Le grand requin-marteau est le plus souvent solitaire. Son activité est essentiellement nocturne, il peut vivre jusqu'à environ 37 ans dans son milieu naturel. Il est très territorial et peut se montrer agressif avec les plongeurs.",
+		"gridRow": "35 / span 5",
+		"gridColumn": "1 / span 4",
+		"sources": "https://fr.wikipedia.org/wiki/Grand_requin-marteau"
 	}
-
-	
 ]
