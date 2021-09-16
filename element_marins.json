@@ -571,8 +571,8 @@
 		]
 	},
 	{
-		"id": "merlu_commun",
-		"img": "merlu_commun.png",
+		"id": "merlu-commun",
+		"img": "merlu-commun.png",
 		"nom": "Merlu commun",
 		"descriptionPart1": "Il vit à de grandes profondeurs, jusqu'à 1 000 m. Il ne remonte vers la surface qu'à la nuit tombée.",
 		"descriptionPart2": "Profondeur : 50 - 1000 m",
