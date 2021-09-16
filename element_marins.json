@@ -411,5 +411,86 @@
 		"sources": [
 			"https://www.fishipedia.fr/fr/poissons/scorpaena-scrofa"
 		]
+	},
+	{
+		"id": "requin-mako",
+		"img": "requin-mako.png",
+		"nom": "Requin mako",
+		"descriptionPart1": "Cette espèce a la capacité de maintenir sa température corporelle à 10°C au-dessus de celle de l'eau. Cette particularité, couplée à un corps hydrodynamique avec de larges fentes branchiales, lui permettent de réaliser de rapides accélérations. Il est capable d'atteindre une vitesse de 70 km/h.",
+		"descriptionPart2": "Sa réputation de "mangeur d'hommes" est largement exagérée. Il est en réalité responsable de très peu d'attaques sur l'Homme.",
+		"descriptionPart3": "Profondeur : 1 - 500 m",
+		"gridRow": "162 / span 6",
+		"gridColumn": "4 / span 4",
+		"sources": [
+			"https://www.fishipedia.fr/fr/poissons?sch=Requin%20mako",
+			"https://fr.wikipedia.org/wiki/Requin_mako"
+		]
+	},
+	{
+		"id": "requin-soyeux",
+		"img": "requin-soyeux.png",
+		"nom": "Requin soyeux",
+		"descriptionPart1": "Le requin soyeux est un poisson solitaire. Il fait partie des principaux prédateurs de son biotope, il se nourrit principalement de poissons, de mollusques et de crustacés.",
+		"descriptionPart2": "C'est une espèce rapide, vive et agressive.",
+		"descriptionPart3": "Profondeur : 0 - 500 m",
+		"gridRow": "169 / span 6",
+		"gridColumn": "2 / span 4",
+		"sources": [
+			"https://www.fishipedia.fr/fr/poissons/carcharhinus-falciformis"
+		]
+	},
+	{
+		"id": "manchot-empereur",
+		"img": "manchot-empereur.png",
+		"nom": "Manchot empereur",
+		"descriptionPart1": "Le Manchot empereur est un oiseau de l'Antarctique, c'est le plus grand et le plus lourd de tous les manchots.",
+		"descriptionPart2": "Son alimentation se compose essentiellement de poissons, mais peut également comprendre des
+					crustacés.",
+		"descriptionPart3": "Lorsqu'il chasse, il peut rester sous l'eau durant 18 mn, plongeant à une profondeur
+					de 535 m.",
+		"gridRow": "176 / span 3",
+		"gridColumn": "6 / span 2",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/Manchot_empereur"
+		]
+	},
+	{
+		"id": "phoque-weddell",
+		"img": "phoque.png",
+		"nom": "Phoque de Weddell",
+		"descriptionPart1": "Le phoque de Weddell vit en Antarctique, sur la banquise.",
+		"descriptionPart2": "Son alimentation se compose essentiellement de poissons, mais peut également comprendre des crustacés. Lorsqu'il chasse, il peut rester sous l'eau durant 1 heure.",
+		"descriptionPart3": "Profondeur : 0 - 600 m",
+		"gridRow": "198 / span 3",
+		"gridColumn": "2 / span 2",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/Phoque_de_Weddell"
+		]
+	},
+	{
+		"id": "scaphandre-rigide",
+		"img": "newtsuit.png",
+		"nom": "Mark Schleef",
+		"descriptionPart1": "Mark Schleef a plongé à 607 mètres de profondeur dans un scaphandre rigide, on parle aussi de système de plongée atmosphérique. Le système de plongée HS2000 est basé sur le Newtsuit censé pouvoir aller jusqu'à 900m de profondeur.",
+		"descriptionPart2": "Les scaphandres rigides sont constitués de parties rigides reliées entre elles par un ensemble de joints étanches. Ces scaphandres sont destinés à explorer les grandes profondeurs marines et sont conçus pour résister à de gigantesques pressions, afin de protéger le scaphandrier qui les utilise.",
+		"gridRow": "200 / span 3",
+		"gridColumn": "6 / span 2",
+		"sources": [
+			""
+		]
+	},
+	{
+		"id": "beluga",
+		"img": "beluga.png",
+		"nom": "Béluga",
+		"descriptionPart1": "Le béluga, appelé également baleine blanche, dauphin blanc et marsouin blanc vit dans l'océan Arctique. Il dispose d'un des sonars les plus sophistiqués de tous les cétacés. Ce sonar lui est indispensable pour s'orienter et se repérer dans les canaux de glace immergés.",
+		"descriptionPart2": "Le béluga est très sociable. Il se déplace en groupes subdivisés en sous-entités habituellement composées d'animaux du même âge et du même sexe.",
+		"descriptionPart3": "Profondeur : 0 - 900 m",
+		"gridRow": "213 / span 3",
+		"gridColumn": "3 / span 4",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/B%C3%A9luga_(c%C3%A9tac%C3%A9)",
+			"https://en.wikipedia.org/wiki/Beluga_whale#Swimming_and_diving"
+		]
 	}
 ]
