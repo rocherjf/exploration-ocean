@@ -258,5 +258,81 @@
 			"https://www.planeteanimal.com/requins/requin-baleine.html",
 			"https://www.fishipedia.fr/fr/poissons/rhincodon-typus"
 		]
+	},
+	{
+		"id": "requin-taureau",
+		"img": "requin-taureau.png",
+		"nom": "Requin taureau",
+		"descriptionPart1": "Bien qu'impressionnant, ce grand prédateur est rarement impliqué dans des attaques de requin. C'est un poisson réputé paisible. Quelques cas de morsures ont toutefois été répertoriés sur des chasseurs subaquatiques.",
+		"descriptionPart2": "C'est la seule espèce de requin connue pour avaler de l'air et le stocker dans son estomac pour améliorer sa flottabilité.",
+		"descriptionPart3": "Profondeur : 0 - 200m",
+		"gridRow": "62 / span 5",
+		"gridColumn": "1 / span 5",
+		"sources": [
+			"https://www.fishipedia.fr/fr/poissons/carcharias-taurus"
+		]
+	},
+	{
+		"id": "poisson-voilier-du-pacifique",
+		"img": "poisson-voilier-du-pacifique.png",
+		"nom": "Poisson voilier du Pacifique",
+		"descriptionPart1": "Ces derniers sont caractérisés par une nageoire dorsale très développée qui rappelle une voile de bateau.",
+		"descriptionPart2": "Cette espèce est considéré comme le poisson le plus rapide au monde. Il peut réaliser des pointes de vitesse à plus de 110km/h.",
+		"descriptionPart3": "Profondeur : 0 - 200m",
+		"gridRow": "65 / span 5",
+		"gridColumn": "6 / span 2",
+		"sources": [
+			"https://www.fishipedia.fr/fr/poissons?sch=poisson%20voilier"
+		]
+	},
+	{
+		"id": "pagre-commun",
+		"img": "pagre-commun.png",
+		"nom": "Pagre commun",
+		"descriptionPart1": "Connu aussi sous le nom de dorade. Le pagre est un animal solidaire, un adulte peut mesurer jusqu’à 80 cm pour 7 ou 8 kilos.",
+		"descriptionPart2": "Le pagre est une espèce hermaphrodite protogyne, il nait femelle et puis devient mâle.",
+		"descriptionPart3": "Profondeur : 10 - 250m",
+		"gridRow": "72 / span 2",
+		"gridColumn": "2 / span 2",
+		"sources": [
+			"https://www.fishipedia.fr/fr/poissons/pagrus-pagrus"
+		]
+	},
+	{
+		"id": "plongee-apnee",
+		"img": "freedive.png",
+		"nom": "Herbert Nitsch",
+		"descriptionPart1": "Le record de plongée en apnée de 253 m, est détenu par Herbert Nitsch et a été établi en Grèce le 14 juin 2007.",
+		"gridRow": "84 / span 4",
+		"gridColumn": "3 / span 2",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/Apn%C3%A9e_No_Limit"
+		]
+	},
+	{
+		"id": "baliste-royal",
+		"img": "baliste-royal.png",
+		"nom": "Baliste royal",
+		"descriptionPart1": "Ce poisson possède deux épines érectiles, l'une sur la nageoire dorsale, l'autre en partie ventrale. L'épine dorsale possède un mécanisme de blocage, permettant au baliste de ne pas être mangé par un prédateur, ou encore de se bloquer entre deux pierres.",
+		"descriptionPart2": "On retrouve le plus souvent le Baliste royal dans les récifs coralliens et les lagons.",
+		"descriptionPart3": "Profondeur : 2 - 275m",
+		"gridRow": "88 / span 3",
+		"gridColumn": "6 / span 2",
+		"sources": [
+			"https://www.fishipedia.fr/fr/poissons/balistes-vetula"
+		]
+	},
+	{
+		"id": "diplodus-cervinus",
+		"img": "diplodus-cervinus.png",
+		"nom": "Sar à grosses lèvres",
+		"descriptionPart1": "Cette espéce est dite protandrique. C'est à dire que ce poisson est d’abord mâle puis devient femelle.",
+		"descriptionPart2": "Cette espèce possède de nombreuses épines piquantes : 11 ou 12 sur la nageoire dorsale et 3 sur la caudale.",
+		"descriptionPart3": "Profondeur : 25 - 300m",
+		"gridRow": "97 / span 3",
+		"gridColumn": "4 / span 2",
+		"sources": [
+			"https://www.fishipedia.fr/fr/poissons/diplodus-cervinus"
+		]
 	}
 ]
