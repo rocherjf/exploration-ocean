@@ -94,7 +94,7 @@
 		"img": "barracuda.png",
 		"nom": "Barracuda",
 		"descriptionPart1": "Le barracuda est une espèce de poissons carnivores pouvant mesurer jusqu'à 2 m de long pour 50 kg",
-		"descriptionPart2": "Ils se rencontrent entre la surface et une trentaine de mètres de profondeur, parfois jusqu'à 100 m"
+		"descriptionPart2": "Ils se rencontrent entre la surface et une trentaine de mètres de profondeur, parfois jusqu'à 100 m",
 		"gridRow": "16 / span 2",
 		"gridColumn": "2 / span 2",
 		"sources":"https://www.fishipedia.fr/fr/poissons/sphyraena-barracuda"
