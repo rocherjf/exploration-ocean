@@ -417,7 +417,7 @@
 		"img": "requin-mako.png",
 		"nom": "Requin mako",
 		"descriptionPart1": "Cette espèce a la capacité de maintenir sa température corporelle à 10°C au-dessus de celle de l'eau. Cette particularité, couplée à un corps hydrodynamique avec de larges fentes branchiales, lui permettent de réaliser de rapides accélérations. Il est capable d'atteindre une vitesse de 70 km/h.",
-		"descriptionPart2": "Sa réputation de "mangeur d'hommes" est largement exagérée. Il est en réalité responsable de très peu d'attaques sur l'Homme.",
+		"descriptionPart2": "Sa réputation de mangeur d'hommes est largement exagérée. Il est en réalité responsable de très peu d'attaques sur l'Homme.",
 		"descriptionPart3": "Profondeur : 1 - 500 m",
 		"gridRow": "162 / span 6",
 		"gridColumn": "4 / span 4",
@@ -444,10 +444,8 @@
 		"img": "manchot-empereur.png",
 		"nom": "Manchot empereur",
 		"descriptionPart1": "Le Manchot empereur est un oiseau de l'Antarctique, c'est le plus grand et le plus lourd de tous les manchots.",
-		"descriptionPart2": "Son alimentation se compose essentiellement de poissons, mais peut également comprendre des
-					crustacés.",
-		"descriptionPart3": "Lorsqu'il chasse, il peut rester sous l'eau durant 18 mn, plongeant à une profondeur
-					de 535 m.",
+		"descriptionPart2": "Son alimentation se compose essentiellement de poissons, mais peut également comprendre des crustacés.",
+		"descriptionPart3": "Lorsqu'il chasse, il peut rester sous l'eau durant 18 mn, plongeant à une profondeur de 535 m.",
 		"gridRow": "176 / span 3",
 		"gridColumn": "6 / span 2",
 		"sources": [
