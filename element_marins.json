@@ -556,5 +556,81 @@
 			"https://fr.wikipedia.org/wiki/Requin_p%C3%A8lerin",
 			"https://www.fishipedia.fr/fr/poissons/cetorhinus-maximus"
 		]
+	},
+	{
+		"id": "lestidium-atlanticum",
+		"img": "lestidium-atlanticum.png",
+		"nom": "Lestidium atlanticum",
+		"descriptionPart1": "Fait partie de la famille des Paralepididae, une famille de poissons des abysses. Les membres de cette famille vivent généralement entre 200 et 1000 m de profondeur mais certains peuvent aller jusqu'à 2000m de profondeur.",
+		"descriptionPart2": "Profondeur : 50 - 1270 m",
+		"gridRow": "313 / span 2",
+		"gridColumn": "5 / span 2",
+		"sources": [
+			"https://www.fishbase.in/summary/Lestidium-atlanticum.html",
+			"https://en.wikipedia.org/wiki/Barracudina"
+		]
+	},
+	{
+		"id": "merlu_commun",
+		"img": "merlu_commun.png",
+		"nom": "Merlu commun",
+		"descriptionPart1": "Il vit à de grandes profondeurs, jusqu'à 1 000 m. Il ne remonte vers la surface qu'à la nuit tombée.",
+		"descriptionPart2": "Profondeur : 50 - 1000 m",
+		"gridRow": "322 / span 2",
+		"gridColumn": "3 / span 3",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/Merlu_commun"
+		]
+	},
+	{
+		"id": "poisson-fouet",
+		"img": "poisson-fouet.png",
+		"nom": "Poisson fouet",
+		"descriptionPart1": "Le poisson fouet, comme les poissons de l'ordre des Lophiiformes est un poisson osseux ayant un mode de prédation caractéristique : la première épine de la nageoire dorsale, appelée illicium ou « tige », est surmontée de l’esca ou « leurre », leur permettant d’attirer des proies.",
+		"descriptionPart2": "Les Lophiiformes mâles sont beaucoup plus petit que les femelles. Leur mode de reproduction est aussi très atypique. Quand le mâle a détecté une femelle il mord dans sa peau, et libère une enzyme qui digère la peau de sa bouche ainsi que celle de la partie du corps de la femelle qu'il a mordu, les fusionnant ainsi jusqu'au niveau des vaisseaux sanguins. Le mâle dépérit ensuite progressivement, d'abord en perdant ses organes digestifs, puis son cerveau, son cœur, ses yeux.",
+		"descriptionPart3": "Profondeur : ? - 1000 m",
+		"gridRow": "324 / span 3",
+		"gridColumn": "6 / span 3",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/Gigantactinidae"
+		]
+	},
+	{
+		"id": "dauphin-pilote",
+		"img": "dauphin-pilote.png",
+		"nom": "Dauphin pilote",
+		"descriptionPart1": "Appelés « dauphins-pilotes » car on les voit fréquemment dans le sillage ou à l’étrave des navires.",
+		"descriptionPart2": "Ceux sont des animaux sociaux qui se déplacent le plus souvent en bandes pouvant aller d'une dizaine à plusieurs centaines d'individus.",
+		"descriptionPart3": "Profondeur : 0 - 1000 m",
+		"gridRow": "327 / span 3",
+		"gridColumn": "1 / span 5",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/Globicephala"
+		]
+	},
+	{
+		"id": "komsomolets",
+		"img": "komsomolets.png",
+		"nom": "Sous marin Komsomolets",
+		"descriptionPart1": "Le 4 aout 1984, un record de plongée pour sous-marin nucléaire d’attaque est battu par le SNA KOMSOMOLETS (URSS) qui a atteint les 1020 mètres de profondeur.",
+		"descriptionPart2": "Il a coulé le 7 avril 1989. Ce jour-là, un incendie se déclara à l'intérieur, provoquant la mort de 4 sous-mariniers, puis de 38 autres lors de son naufrage par 1 600 mètres de fond, au large des côtes de Norvège.",
+		"gridRow": "332 / span 5",
+		"gridColumn": "3 / span 5",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/K-278_Komsomolets"
+		]
+	},
+	{
+		"id": "requin-blanc",
+		"img": "requin-blanc.png",
+		"nom": "Requin blanc",
+		"descriptionPart1": "D'une taille moyenne de 4m50 mais pouvant aller jusqu'à 7m50, le requin blanc est un prédateur solitaire se nourrissant de poissons téléostéens (ce qui représente 99.8% des poissons actuels), d'autres requins et raies, et de mammifères marins. C'est également un opportuniste pouvant profiter de carcasses.",
+		"descriptionPart2": "La maturité sexuelle du grand requin blanc survient autour de 12-17 ans chez la femelle et de 7-9 ans chez le mâle. La gestation de type aplacentaire et vivipare, avec oophagie (les jeunes se nourrissent des œufs non fécondés dans le ventre de la mère) durerait environ 18 mois.",
+		"descriptionPart3": "Profondeur : 0 - 1200 m",
+		"gridRow": "345 / span 8",
+		"gridColumn": "1 / span 8",
+		"sources": [
+			"https://www.fishipedia.fr/fr/poissons/carcharodon-carcharias"
+		]
 	}
 ]
