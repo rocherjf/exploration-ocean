@@ -364,10 +364,8 @@
 		"id": "pastenague-pelagique",
 		"img": "pastenague-pelagique.png",
 		"nom": "Pastenague pélagique",
-		"descriptionPart1": "Elle dispose d'un aiguillon venimeux mais contrairement aux autres pastenagues, elle ne passe
-					pas la majeure partie du temps près du fond.",
-		"descriptionPart2": "Cette espèce est très venimeuse et peut causer de graves accidents au toucher. Cependant, les
-					rencontres sont rares et cette espèce a tendance à fuir à l'approche de baigneurs / plongeurs.",
+		"descriptionPart1": "Elle dispose d'un aiguillon venimeux mais contrairement aux autres pastenagues, elle ne passe pas la majeure partie du temps près du fond.",
+		"descriptionPart2": "Cette espèce est très venimeuse et peut causer de graves accidents au toucher. Cependant, les rencontres sont rares et cette espèce a tendance à fuir à l'approche de baigneurs / plongeurs.",
 		"descriptionPart3": "Profondeur : 1 - 381 m",
 		"gridRow": "120 / span 3",
 		"gridColumn": "2 / span 3",
