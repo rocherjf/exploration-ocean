@@ -227,7 +227,7 @@
 		"descriptionPart3": "Profondeur : 0 - 150m",
 		"gridRow": "50 / span 6",
 		"gridColumn": "2 / span 2",
-		"sources":  [
+		"sources": [
 			"https://www.fishipedia.fr/fr/mollusques/octopus-vulgaris"
 		]
 	},
@@ -323,16 +323,82 @@
 		]
 	},
 	{
-		"id": "diplodus-cervinus",
-		"img": "diplodus-cervinus.png",
-		"nom": "Sar à grosses lèvres",
-		"descriptionPart1": "Cette espéce est dite protandrique. C'est à dire que ce poisson est d’abord mâle puis devient femelle.",
-		"descriptionPart2": "Cette espèce possède de nombreuses épines piquantes : 11 ou 12 sur la nageoire dorsale et 3 sur la caudale.",
-		"descriptionPart3": "Profondeur : 25 - 300m",
-		"gridRow": "97 / span 3",
-		"gridColumn": "4 / span 2",
+		"id": "otarie-fourrure-Nouvelle-Zelande",
+		"img": "otarie-fourrure-Nouvelle-Zelande.png",
+		"nom": "Otarie à fourrure de Nouvelle-Zélande",
+		"descriptionPart1": "Le dimorphisme sexuel (différence entre les femelles et les mâles) est important, un mâle fait en moyenne 126 kg contre 50 kg pour une femelle.",
+		"descriptionPart2": "Les otaries à fourrure de Nouvelle-Zélande sont polygames et territoriaux. Avant les périodes de reproduction, les mâles colonisent un territoire et le défendent avec des vocalisations et des combats.",
+		"descriptionPart3": "Profondeur : 0 - 380 m (mâles) et 0 - 310 m (femelles)",
+		"gridRow": "102 / span 4",
+		"gridColumn": "4 / span 4",
 		"sources": [
-			"https://www.fishipedia.fr/fr/poissons/diplodus-cervinus"
+			"https://fr.wikipedia.org/wiki/Otarie_%C3%A0_fourrure_de_Nouvelle-Z%C3%A9lande"
+		]
+	},
+	{
+		"id": "plongeur",
+		"img": "plongeur.png",
+		"nom": "Ahmed Gabr",
+		"descriptionPart1": "Le nageur Ahmed Gabr détient le record de profondeur en plongée profonde et technique autonome avec bouteilles trimix : 332,35 mètres. La descente a duré 12 minutes et la remontée qui s'est fait par paliers 15 heures.",
+		"gridRow": "110 / span 2",
+		"gridColumn": "3 / span 2",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/Ahmed_Gabr",
+			"https://www.guinnessworldrecords.com/news/2014/9/ahmed-gabr-breaks-record-for-deepest-scuba-dive-at-more-than-1000-feet-60537"
+		]
+	},
+	{
+		"id": "ange-de-mer",
+		"img": "ange-de-mer.png",
+		"nom": "Ange de mer",
+		"descriptionPart1": "Les poissons du genre Clione n'ont pas de branchies, la respiration s’effectue à l’ensemble du corps.",
+		"descriptionPart2": "La couche externe forme un hemocèle rempli de sang. Ce système circulatoire simple permet à l’ange de mer de respirer directement dans l’eau à travers sa peau.",
+		"descriptionPart3": "Profondeur : 0 - 350 m",
+		"gridRow": "115 / span 2",
+		"gridColumn": "5 / span 2",
+		"sources": [
+			"https://www.fishipedia.fr/fr/mollusques/clione-limacina"
+		]
+	},
+	{
+		"id": "pastenague-pelagique",
+		"img": "pastenague-pelagique.png",
+		"nom": "Pastenague pélagique",
+		"descriptionPart1": "Elle dispose d'un aiguillon venimeux mais contrairement aux autres pastenagues, elle ne passe
+					pas la majeure partie du temps près du fond.",
+		"descriptionPart2": "Cette espèce est très venimeuse et peut causer de graves accidents au toucher. Cependant, les
+					rencontres sont rares et cette espèce a tendance à fuir à l'approche de baigneurs / plongeurs.",
+		"descriptionPart3": "Profondeur : 1 - 381 m",
+		"gridRow": "120 / span 3",
+		"gridColumn": "2 / span 3",
+		"sources": [
+			"https://www.fishipedia.fr/fr/poissons/pteroplatytrygon-violacea"
+		]
+	},
+	{
+		"id": "torpille-taches",
+		"img": "torpille-taches.png",
+		"nom": "Torpille à tâches",
+		"descriptionPart1": "Ce poisson fait partie du groupe des raies électriques. Les plus gros spécimens sont capables d'infliger une sévère décharge allant jusqu'a 200 volts.",
+		"descriptionPart2": "Ce choc est aussi bien utilisé pour l'attaque et l'immobilisation de proies que pour la défense face aux prédateurs.",
+		"descriptionPart3": "Profondeur : 2 - 400 m",
+		"gridRow": "125 / span 3",
+		"gridColumn": "5 / span 3",
+		"sources": [
+			"https://www.fishipedia.fr/fr/poissons/torpedo-torpedo"
+		]
+	},
+	{
+		"id": "rascasse-rouge",
+		"img": "rascasse-rouge.png",
+		"nom": "Rascasse rouge",
+		"descriptionPart1": "La rascasse rouge se rencontre dans une large partie de l'océan Atlantique ouest et en mer Méditerranée. Comme ses cousines, cette rascasse est un prédateur qui se fond dans le décor pour surprendre ses proies. Très discrète, elle passe une grande partie de son temps immobile dans les rochers.",
+		"descriptionPart2": "Certaines épines de la nageoire dorsale sont venimeuses et peuvent causer des accidents en cas de toucher.",
+		"descriptionPart3": "Profondeur : 15 - 500 m",
+		"gridRow": "162 / span 3",
+		"gridColumn": "1 / span 2",
+		"sources": [
+			"https://www.fishipedia.fr/fr/poissons/scorpaena-scrofa"
 		]
 	}
 ]
