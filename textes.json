@@ -1,0 +1,94 @@
+[
+	{
+		"id": "lumiere-visible-100m",
+		"description": "Pendant ses premières années d'existence (2 - 3 ans en France et 4 - 5 ans en Norvège), le saumon vit en haut des rivières à fort courants dans des zones peu profondes.",
+		"gridRow": "33 / span 2",
+		"gridColumn": "1 / span 8",
+		"sources": ""
+	},
+	{
+		"id": "vague-interne-p1",
+		"description": "Les vagues internes sont des vagues qui apparaissent à l'intérieur d'un milieu fluide, plutôt qu'à sa surface.",
+		"gridRow": "136 / span 3",
+		"gridColumn": "1 / span 8",
+		"sources": [
+			"https://www.nature.com/articles/nature14399",
+			"https://polrismer.blog/2018/09/09/vagues-sous-marines/"
+		]
+	},
+	{
+		"id": "vague-interne-p2",
+		"description": "C'est ce qui se passe dans l'océan où la densité de l'eau varie en fonction de la température et de salinité.",
+		"gridRow": "142 / span 3",
+		"gridColumn": "1 / span 8",
+		"sources": [
+			"https://www.nature.com/articles/nature14399",
+			"https://polrismer.blog/2018/09/09/vagues-sous-marines/"
+		]
+	},
+	{
+		"id": "vague-interne-p3",
+		"description": "En mer de Chine méridional des vagues internes de 200m ont pû être observées.",
+		"gridRow": "148 / span 3",
+		"gridColumn": "1 / span 8",
+		"sources": [
+			"https://www.nature.com/articles/nature14399",
+			"https://polrismer.blog/2018/09/09/vagues-sous-marines/"
+		]
+	},
+	{
+		"id": "vague-interne-p4",
+		"description": "Ces vagues peuvent avoir de nombreux effets sur les échanges thermiques dans l'océean, le mélange et le transport des nutriments et même sur la navigation.",
+		"gridRow": "154 / span 3",
+		"gridColumn": "1 / span 8",
+		"sources": [
+			"https://www.nature.com/articles/nature14399",
+			"https://polrismer.blog/2018/09/09/vagues-sous-marines/"
+		]
+	},
+	{
+		"id": "vague-interne-p5",
+		"description": "En 2021, un sous marin indonésien a sombré, une des hypothéses avancées est la présence d'une vague interne qui aurait emmené le sous marin trop profond",
+		"gridRow": "160 / span 3",
+		"gridColumn": "1 / span 8",
+		"sources": [
+			"https://www.nature.com/articles/nature14399",
+			"https://polrismer.blog/2018/09/09/vagues-sous-marines/"
+		]
+	},
+	{
+		"id": "canal-sofar-p1",
+		"description": "La vitesse du son dans l'eau varie en fonction de nombreuses variables dont la température et la pression de l’eau.",
+		"gridRow": "230 / span 2",
+		"gridColumn": "1 / span 8",
+		"sources": ""
+	},
+	{
+		"id": "canal-sofar-p2",
+		"description": "Le canal SOFAR (Sound Fixing and Ranging) est une couche d’eau horizontale dans la mer, à la profondeur de laquelle la vitesse du son est à son minimum.",
+		"gridRow": "236 / span 2",
+		"gridColumn": "1 / span 8",
+		"sources": ""
+	},
+	{
+		"id": "canal-sofar-p3",
+		"description": "Ce canal a une particularité interessante, il agit comme un guide d’ondes pour le son. C'est à dire que si le son commence à se propager vers le haut il est ramené vers le bas et inversement.",
+		"gridRow": "242 / span 2",
+		"gridColumn": "1 / span 8",
+		"sources": ""
+	},
+	{
+		"id": "canal-sofar-p4",
+		"description": "C'est surtout vrai pour les ondes sonores de basse fréquence comme le chant des baleines qui peuvent voyager dans ce canal sur plusieurs milliers de kilomètres avant de se dissiper.",
+		"gridRow": "248 / span 2",
+		"gridColumn": "1 / span 8",
+		"sources": ""
+	},
+	{
+		"id": "canal-sofar-p5",
+		"description": "La profondeur de ce canal est variable. A proximité des Bermudes, ce canal se situe à une profondeur d’environ 1 000 m. En eaux tempérées, l’axe est moins profond, il peut même atteindre la surface.",
+		"gridRow": "254 / span 2",
+		"gridColumn": "1 / span 8",
+		"sources": ""
+	}
+]
