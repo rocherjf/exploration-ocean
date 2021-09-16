@@ -490,5 +490,71 @@
 			"https://fr.wikipedia.org/wiki/B%C3%A9luga_(c%C3%A9tac%C3%A9)",
 			"https://en.wikipedia.org/wiki/Beluga_whale#Swimming_and_diving"
 		]
+	},
+	{
+		"id": "raie-manta-oceanique",
+		"img": "raie-manta-oceanique.png",
+		"nom": "Raie manta océanique",
+		"descriptionPart1": "C'est la plus grande des raies, elle peut atteindre jusqu'à sept mètres d'envergure et deux tonnes.",
+		"descriptionPart2": "La raie manta océanique a un mode de vie pélagique et se nourrit en filtrant l'eau de mer afin de capturer son alimentation favorite que représente le zooplancton. Elle se nourrit aussi de petits poissons.",
+		"descriptionPart3": "Profondeur : 0 - 672 m",
+		"gridRow": "222 / span 3",
+		"gridColumn": "1 / span 4",
+		"sources": [
+			"https://www.sciencedaily.com/releases/2020/03/200318143729.htm"
+		]
+	},
+	{
+		"id": "murene-commune",
+		"img": "murene-commune.png",
+		"nom": "Murène commune",
+		"descriptionPart1": "La murène commune est connue pour être un prédateur nocturne. Durant la journée, elle se cache en se lovant dans des cavités rocheuses et les anfractuosités. Elle n'hésite pas à se défendre voire attaquer les intrus qui chercheraient à la déloger.",
+		"descriptionPart2": "La murène commune est une mauvaise nageuse en raison de la forme de son corps non hydrodynamique. Elle voit mal mais possède un odorat très développé, qui constitue un atout indispensable à son activité de prédation nocturne.",
+		"descriptionPart3": "Profondeur : 0 - 800 m",
+		"gridRow": "260 / span 5",
+		"gridColumn": "2 / span 2",
+		"sources": [
+			"https://www.fishipedia.fr/fr/poissons/muraena-helena"
+		]
+	},
+	{
+		"id": "rascasse-brune",
+		"img": "rascasse-brune.png",
+		"nom": "Rascasse brune",
+		"descriptionPart1": "La rascasse brune est un poisson de petite taille pouvant atteindre 30 cm de long, toutefois la taille moyenne est de 15 cm",
+		"descriptionPart2": "La rascasse brune a une tête imposante avec une bouche est fendue de grande taille. Comme chez les autres rascasses, cette dernière est protractile, c'est-à-dire qu'elle est capable de s'agrandir et de s'allonger pour capturer et absorber les proies.",
+		"descriptionPart3": "Profondeur : 0 - 800 m",
+		"gridRow": "260 / span 3",
+		"gridColumn": "5 / span 3",
+		"sources": [
+			"https://www.fishipedia.fr/fr/poissons/scorpaena-porcus"
+		]
+	},
+	{
+		"id": "requin-tigre",
+		"img": "requin-tigre.png",
+		"nom": "Requin tigre",
+		"descriptionPart1": "Le requin tigre est facilement reconnaissable à sa large tête carrée et plate sur le dessus, ainsi qu'aux rayures caractéristiques présentes le long de ses flancs et à l'origine de son nom commun.",
+		"descriptionPart2": "Le requin-tigre est probablement le moins spécialisé des requins. Peu sélectif, il est parfois considéré comme une véritable poubelle des mers, avalant toutes sortes de choses sans discernement, notamment des objets issus de l'industrie humaine.",
+		"descriptionPart3": "Profondeur : 0 - 800 m",
+		"gridRow": "267 / span 6",
+		"gridColumn": "3 / span 5",
+		"sources": [
+			"https://www.fishipedia.fr/fr/poissons/galeocerdo-cuvier"
+		]
+	},
+	{
+		"id": "requin-pelerin",
+		"img": "requin-pelerin.png",
+		"nom": "Requin pèlerin",
+		"descriptionPart1": "Le requin pèlerin peut atteindre 12 mètres de long, pour une longueur moyenne de 10 mètres, ce requin est considéré comme le second plus grand poisson vivant actuellement sur Terre après le requin-baleine.",
+		"descriptionPart2": "Ce requin massif, se déplace assez lentement et est dénué d'agressivité, sa dénomination anglaise 'Basking shark se traduit par 'requin flâneur'. il est inoffensif pour l'homme. Ce géant des mers se nourrit principalement de plancton, d'algues ou bien d'animaux microscopiques qu'il absorbe par sa très large bouche.",
+		"descriptionPart3": "Profondeur : 0 - 900 m",
+		"gridRow": "297 / span 6",
+		"gridColumn": "3 / span 5",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/Requin_p%C3%A8lerin",
+			"https://www.fishipedia.fr/fr/poissons/cetorhinus-maximus"
+		]
 	}
 ]
