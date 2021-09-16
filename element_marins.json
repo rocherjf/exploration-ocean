@@ -171,5 +171,92 @@
 		"sources": [
 			"https://fr.wikipedia.org/wiki/Grand_requin-marteau"
 		]
+	},
+	{
+		"id": "orque",
+		"img": "killer-whale.png",
+		"nom": "Orque",
+		"descriptionPart1": "L'orque est une espèce de mammifère marin. Elle vit dans les régions arctiques et antarctiques jusqu'aux mers tropicales.",
+		"descriptionPart2": "Les orques sont considérées comme des superprédateurs. Leur régime alimentaire est très diversifié.",
+		"descriptionPart3": "Les orques sont fortement sociales ; certaines populations sont composées de plusieurs familles matrilinéaires. Les techniques de chasse sophistiquées et les comportements vocaux sont transmis à travers les générations.",
+		"gridRow": "35 / span 5",
+		"gridColumn": "5 / span 3",
+		"sources": ""
+	},
+	{
+		"id": "requin-nourrice",
+		"img": "requin-nourrice.png",
+		"nom": "Requin nourrice",
+		"descriptionPart1": "Ce nom leur vient du bruit de succion réalisé avec leur bouche, rappelant celui d'un bébé lors de la tétée.",
+		"descriptionPart2": "Ils sont aussi appelés requins-dormeurs. Immobiles sur le fond, ils dorment près de 20 heures par jour. Contrairement à la majorité des requins, ils n'ont pas besoin de nager pour respirer.",
+		"descriptionPart3": "Profondeur : 0 - 130m",
+		"gridRow": "41 / span 5",
+		"gridColumn": "4 / span 3",
+		"sources": [
+			"https://www.fishipedia.fr/fr/poissons/ginglymostoma-cirratum"
+		]
+	},
+	{
+		"id": "guillemot-de-troïl",
+		"img": "guillemot-de-troïl.png",
+		"nom": "Guillemot de troïl",
+		"descriptionPart1": "Le Guillemot de Troïl est un oiseau marin qui se nourrit surtout de petits poissons de banc (200 mm de long au maximum), mais aussi de quelques crustacés, de vers marins et de calmars.",
+		"descriptionPart2": "Il plonge souvent jusqu'à 30 m de profondeur, mais on a enregistré des plongeons de plus de 150 m.",
+		"descriptionPart3": "Profondeur : 0 - 150m",
+		"gridRow": "45 / span 2",
+		"gridColumn": "2 / span 2",
+		"sources": ""
+	},
+	{
+		"id": "dauphin",
+		"img": "dauphin.png",
+		"nom": "Dauphin",
+		"descriptionPart1": "Les dauphins se nourrissent de petits poissons et de calmars qu'ils chassent parfois à des profondeurs pouvant atteindrent plusieurs centaines de mètres. Ils vivent généralement en groupe",
+		"descriptionPart2": "Ses mâchoires comporte 82 à 110 dents chacune. Il pèse entre 70 et 110 kg.",
+		"descriptionPart3": "Profondeur : 0 - 180m",
+		"gridRow": "47 / span 3",
+		"gridColumn": "6 / span 2",
+		"sources": ""
+	},
+	{
+		"id": "pieuvre-commune",
+		"img": "pieuvre-commune.png",
+		"nom": "Pieuvre commune",
+		"descriptionPart1": "C'est l'espèce de pieuvre la plus étudiée, notamment pour son intelligence particulièrement élevée pour un invertébré.",
+		"descriptionPart2": "La pieuvre commune est assez intelligente pour apprendre à dévisser un pot contenant de la nourriture, elle est aussi connue pour sa capacité à piller les casiers à homard.",
+		"descriptionPart3": "Profondeur : 0 - 150m",
+		"gridRow": "50 / span 6",
+		"gridColumn": "2 / span 2",
+		"sources":  [
+			"https://www.fishipedia.fr/fr/mollusques/octopus-vulgaris"
+		]
+	},
+	{
+		"id": "seiche-commune",
+		"img": "seiche-commune.png",
+		"nom": "Seiche commune",
+		"descriptionPart1": "Pour couvrir sa fuite la seiche commune produit une encre noire qu'elle expulse.",
+		"descriptionPart2": "Les os de seiche sont constituée de calcaire, et se complexifient avec l'age.",
+		"descriptionPart3": "Profondeur : 0 - 200m",
+		"gridRow": "52 / span 2",
+		"gridColumn": "5 / span 2",
+		"sources": [
+			"https://www.fishipedia.fr/fr/mollusques/sepia-officinalis"
+		]
+	},
+	{
+		"id": "requin-baleine",
+		"img": "requin-baleine.png",
+		"nom": "Requin baleine",
+		"descriptionPart1": "Pouvant exceptionnellement atteindre 20 mètres de long, pour une masse de 34 tonnes, ce requin est considéré comme le plus grand poisson vivant actuellement sur Terre.",
+		"descriptionPart2": "Massif, se déplaçant assez lentement et dénué d'agressivité, ce requin est parfaitement inoffensif pour l'Homme. Il se nourrit principalement de plancton, d'algues et d'animaux microscopiques, qu'il absorbe par sa large bouche.",
+		"descriptionPart3": "Profondeur : 0 - 1900m",
+		"gridRow": "52 / span 2",
+		"gridColumn": "5 / span 2",
+		"sources": [
+			"https://www.fishipedia.fr/fr/poissons/rhincodon-typus",
+			"https://www.planeteanimal.com/requins/requin-baleine.html",
+			"https://www.fishipedia.fr/fr/poissons/rhincodon-typus"
+		]
 	}
 ]
