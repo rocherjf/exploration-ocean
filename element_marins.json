@@ -571,8 +571,8 @@
 		]
 	},
 	{
-		"id": "merlu-commun",
-		"img": "merlu-commun.png",
+		"id": "merlu_commun",
+		"img": "merlu_commun.png",
 		"nom": "Merlu commun",
 		"descriptionPart1": "Il vit à de grandes profondeurs, jusqu'à 1 000 m. Il ne remonte vers la surface qu'à la nuit tombée.",
 		"descriptionPart2": "Profondeur : 50 - 1000 m",
@@ -631,6 +631,136 @@
 		"gridColumn": "1 / span 8",
 		"sources": [
 			"https://www.fishipedia.fr/fr/poissons/carcharodon-carcharias"
+		]
+	},
+	{
+		"id": "lanterne-crocodile",
+		"img": "lanterne-crocodile.png",
+		"nom": "Lanterne crocodile",
+		"descriptionPart1": "Le lanterne crocodile fait partie de la famille des poissons-lanterne. Ils sont appelés ainsi du fait de leur remarquable aptitude à la bioluminescence.Les poissons-lanternes représentent à eux seuls 65 % de la biomasse des profondeurs abyssales. C'est à dire que si on vidait tous les éléments vivants présent dans les profondeurs abyssales, les poissons lanterne représenteraient 65% du poids total des éléments vivants.",
+		"descriptionPart2": "Une autre particuliarité de ces poissons est leurs migrations verticales quotidiennes : pendant les heures de clarté, la plupart des espèces restent dans la zone bathypélagique sombre , entre 300 et 1 500 m mais vers le coucher du soleil, les poissons commencent à monter dans la zone épipélagique, entre 10 et 100 m.",
+		"descriptionPart3": "Profondeur : 100 - 1500 m",
+		"gridRow": "360 / span 2",
+		"gridColumn": "5 / span 2",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/Myctophidae"
+		]
+	},
+	{
+		"id": "requin-lezard",
+		"img": "requin-lezard.jpg",
+		"nom": "Requin lézard",
+		"descriptionPart1": "Il se nourrit principalement de céphalopodes, tout en consommant des poissons osseux et d'autres petits requins.",
+		"descriptionPart2": "Le requin-lézard a la période de gestation la plus longue chez un vertébré : elle peut durer trois ans et demi.",
+		"descriptionPart3": "Profondeur : 20 - 1500 m",
+		"gridRow": "367 / span 2",
+		"gridColumn": "3 / span 2",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/Requin-l%C3%A9zard"
+		]
+	},
+	{
+		"id": "requin-lezard",
+		"img": "requin-lezard.jpg",
+		"nom": "Requin lézard",
+		"descriptionPart1": "Les éléphants de mer sont les plus imposants représentants des phoques (Phocidae). Les mâles dominants développent un nez en forme de courte trompe qui leur a valu ce nom.",
+		"descriptionPart2": "Ils plongent profondément : la plongée la plus profonde mesurée par une équipe scientifique a révélé que l'éléphant de mer peut descendre à une profondeur de 2 388 mètres.",
+		"descriptionPart3": "Profondeur : 0 - 2388 m",
+		"gridRow": "420 / span 4",
+		"gridColumn": "3 / span 4",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/%C3%89l%C3%A9phant_de_mer"
+		]
+	},
+	{
+		"id": "grand-avaleur",
+		"img": "rgrand-avaleur.png",
+		"nom": "Grand avaleur",
+		"descriptionPart1": "Le grand avaleur est une espèce de poissons abyssaux qui se caractérise par l'extensibilité des mâchoires supérieure et inférieure et par l'élasticité de son estomac (ce qui lui permet d'avaler des proies plus grandes que lui, jusqu'à plus de quatre fois sa taille). Sa taille ne dépasse pas 25 centimètres.",
+		"descriptionPart2": "Profondeur : 700 - 2745 m",
+		"gridRow": "430 / span 2",
+		"gridColumn": "5 / span 2",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/Grand_avaleur"
+		]
+	},
+	{
+		"id": "titanic",
+		"img": "titanic.png",
+		"nom": "Titanic",
+		"descriptionPart1": "Le RMS Titanic est un paquebot transatlantique britannique qui fait naufrage dans l'océan Atlantique Nord en 1912 à la suite d'une collision avec un iceberg, lors de son voyage inaugural de Southampton à New York.",
+		"descriptionPart2": "Entre 1 490 et 1 520 personnes trouvent la mort, ce qui fait de cet événement l'une des plus grandes catastrophes maritimes survenues en temps de paix.",
+		"descriptionPart3": "L'épave du Titanic est localisée le 1er septembre 1985 par le professeur Robert Ballard. Elle gît à 3 843 mètres de profondeur.",
+		"gridRow": "545 / span 10",
+		"gridColumn": "2 / span 6",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/Titanic"
+		]
+	},
+	{
+		"id": "pieuvre-dumbo",
+		"img": "pieuvre-dumbo.png",
+		"nom": "Pieuvre Dumbo",
+		"descriptionPart1": "Abusivementappelés « pieuvre (ou poulpe) Dumbo » en raison de leur corps enforme de patte d’éléphant et de leurs deux nageoires en forme d'oreilles. Ils n'ont en fait que peu de points en commun avec les pieuvres. Leur nom scientifique est Grimpoteuthis.",
+		"descriptionPart2": "Ils peuvent faire varier l'aspect de la couche transparente de leur peau à volonté.",
+		"descriptionPart3": "Profondeur : 500 - 4000 m",
+		"gridRow": "560 / span 3",
+		"gridColumn": "3 / span 3",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/Grimpoteuthis"
+		]
+	},
+	{
+		"id": "poisson-vipere-de-sloane",
+		"img": "poisson-vipere-de-sloane.jpg",
+		"nom": "Poisson-vipère de Sloane",
+		"descriptionPart1": "C'est un poisson des grands fond, de forme très allongée, aux gros yeux, à mâchoires garnie de longues dents recourbées.",
+		"descriptionPart2": "Ses dents l'empêchent de fermer sa bouche, tant elles sont grandes et tranchantes.",
+		"descriptionPart3": "Profondeur : 200 - 4700 m",
+		"gridRow": "603 / span 3",
+		"gridColumn": "4 / span 3",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/Chauliodus_sloani"
+		]
+	},
+	{
+		"id": "poisson-ogre",
+		"img": "poisson-ogre.jpg",
+		"nom": "Poisson ogre",
+		"descriptionPart1": "Proportionnellement à la taille de son corps, le poisson-ogre a les plus longues dents du règne animal.",
+		"descriptionPart2": "Les jeunes poisson-ogres sont morphologiquement très différents des adultes. Ces différences marquées ont d'ailleurs amené les deux stades de leur développement à être parfois classés comme deux espèces distinctes",
+		"descriptionPart3": "Profondeur : 500 - 5000 m",
+		"gridRow": "623 / span 3",
+		"gridColumn": "2 / span 3",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/Anoplogaster_cornuta",
+			"https://en.wikipedia.org/wiki/Fangtooth"
+		]
+	},
+	{
+		"id": "epave-USS-Johnston",
+		"img": "epave-USS-Johnston.png",
+		"nom": "Epave de l'USS Johnston",
+		"descriptionPart1": "L'USS Johnston (DD-557) est un destroyer américain. Il est coulé pendant la seconde guerre mondiale.",
+		"descriptionPart2": "L’épave ne sera retrouvée qu’en 2019 à 6468,6m mètres de profondeur et ne sera formellement identifiée au printemps 2021.",
+		"descriptionPart3": "Il s'agit de l'épave la plus profonde connue.",
+		"gridRow": "709 / span 10",
+		"gridColumn": "3 / span 5",
+		"sources": [
+			"https://www.guinnessworldrecords.com/world-records/deepest-shipwreck"
+		]
+	},
+	{
+		"id": "grandgousier-pélican",
+		"img": "grandgousier-pélican.png",
+		"nom": "Epave de l'USS Johnston",
+		"descriptionPart1": "Le grandgousier-pélican est olive ou noir. Il possède un corps d’anguille, surmonté d’une tête volumineuse. La bouche, qui représente un quart de la longueur du corps, forme comme une poche dans la partie inférieure, à l'image du bec des pélicans.",
+		"descriptionPart2": "Un organe lumineux est situé à l'extrémité de la queue. Il brille d'un rouge ou d'un rose impressionnant. Cet organe est utilisé comme leurre. La lumière rose ainsi que les flash rouges lui permettent d'attirer ses proies.",
+		"descriptionPart3": "Profondeur : 500 - 7625 m",
+		"gridRow": "783 / span 4",
+		"gridColumn": "4 / span 4",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/Eurypharynx_pelecanoides"
 		]
 	}
 ]
