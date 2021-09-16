@@ -571,8 +571,8 @@
 		]
 	},
 	{
-		"id": "merlu_commun",
-		"img": "merlu_commun.png",
+		"id": "merlu-commun",
+		"img": "merlu-commun.png",
 		"nom": "Merlu commun",
 		"descriptionPart1": "Il vit à de grandes profondeurs, jusqu'à 1 000 m. Il ne remonte vers la surface qu'à la nuit tombée.",
 		"descriptionPart2": "Profondeur : 50 - 1000 m",
@@ -660,9 +660,9 @@
 		]
 	},
 	{
-		"id": "requin-lezard",
-		"img": "requin-lezard.jpg",
-		"nom": "Requin lézard",
+		"id": "elephants-de-mer",
+		"img": "elephant-de-mer.png",
+		"nom": "Eléphants de mer",
 		"descriptionPart1": "Les éléphants de mer sont les plus imposants représentants des phoques (Phocidae). Les mâles dominants développent un nez en forme de courte trompe qui leur a valu ce nom.",
 		"descriptionPart2": "Ils plongent profondément : la plongée la plus profonde mesurée par une équipe scientifique a révélé que l'éléphant de mer peut descendre à une profondeur de 2 388 mètres.",
 		"descriptionPart3": "Profondeur : 0 - 2388 m",
@@ -674,7 +674,7 @@
 	},
 	{
 		"id": "grand-avaleur",
-		"img": "rgrand-avaleur.png",
+		"img": "grand-avaleur.png",
 		"nom": "Grand avaleur",
 		"descriptionPart1": "Le grand avaleur est une espèce de poissons abyssaux qui se caractérise par l'extensibilité des mâchoires supérieure et inférieure et par l'élasticité de son estomac (ce qui lui permet d'avaler des proies plus grandes que lui, jusqu'à plus de quatre fois sa taille). Sa taille ne dépasse pas 25 centimètres.",
 		"descriptionPart2": "Profondeur : 700 - 2745 m",
@@ -753,7 +753,7 @@
 	{
 		"id": "grandgousier-pélican",
 		"img": "grandgousier-pélican.png",
-		"nom": "Epave de l'USS Johnston",
+		"nom": "Grandgousier pélican",
 		"descriptionPart1": "Le grandgousier-pélican est olive ou noir. Il possède un corps d’anguille, surmonté d’une tête volumineuse. La bouche, qui représente un quart de la longueur du corps, forme comme une poche dans la partie inférieure, à l'image du bec des pélicans.",
 		"descriptionPart2": "Un organe lumineux est situé à l'extrémité de la queue. Il brille d'un rouge ou d'un rose impressionnant. Cet organe est utilisé comme leurre. La lumière rose ainsi que les flash rouges lui permettent d'attirer ses proies.",
 		"descriptionPart3": "Profondeur : 500 - 7625 m",
