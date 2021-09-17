@@ -505,6 +505,19 @@
 		]
 	},
 	{
+		"id": "opisthoproctidae",
+		"img": "Winteria_telescopa.png",
+		"nom": "Opisthoproctidae",
+		"descriptionPart1": "Les Opisthoproctidae sont une famille de petits poissons vivant dans les abysses. Ils ont la particularité d'avoir des yeux énormes situés au milieu d'un crâne transparent et sont communément appelés revenants.",
+		"descriptionPart2": "En regardant le poisson ont peu très facilement confondre ses narines avec ses yeux.",
+		"descriptionPart3": "Profondeur : 300 - 800 m",
+		"gridRow": "222 / span 3",
+		"gridColumn": "1 / span 4",
+		"sources": [
+			"https://www.sciencedaily.com/releases/2020/03/200318143729.htm"
+		]
+	},
+	{
 		"id": "murene-commune",
 		"img": "murene-commune.png",
 		"nom": "Murène commune",
@@ -803,6 +816,34 @@
 		]
 	},
 	{
+		"id": "poisson-sans-visage",
+		"img": "poisson-sans-visage.png",
+		"nom": "Poisson sans visage",
+		"descriptionPart1": "Le Poisson sans visage est un poisson abyssal de 40 cm de long vivant au large de l'Australie. Il doit son nom au fait qu'il n'a pas d'yeux , et que sa bouche se situe sous son corps, donnant l'impression qu'il n'a pas de visage.",
+		"descriptionPart2": "Profondeur : 3935 - 5100 m",
+		"gridRow": "598 / span 3",
+		"gridColumn": "2 / span 3",
+		"sources": [
+			"https://fishesofaustralia.net.au/home/species/5354",
+			"https://en.wikipedia.org/wiki/Faceless_cusk",
+			"https://fr.wikipedia.org/wiki/Poisson_sans_visage"
+		]
+	},
+	{
+		"id": "grenadier",
+		"img": "grenadier.png",
+		"nom": "Grenadier",
+		"descriptionPart1": "Les grenadiers ou poissons queue de rat (Macrouridae) forment une famille de poissons vivant dans les abysses",
+		"descriptionPart2": "Les grenadiers produisent un grand nombre (plus de 100 000) d'œufs minuscules (1-2 millimètres de diamètre) rendus flottants par des gouttelettes de lipides. On suppose que les œufs flottent jusqu'à la thermocline (l'interface entre les eaux de surface plus chaudes et les eaux froides et plus profondes) où ils se développent.",
+		"descriptionPart2": "Profondeur : 200 - 6000 m",
+		"gridRow": "608 / span 3",
+		"gridColumn": "2 / span 3",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/Macrouridae",
+			"https://en.wikipedia.org/wiki/Grenadiers_(fish)"
+		]
+	},
+	{
 		"id": "epave-USS-Johnston",
 		"img": "epave-USS-Johnston.png",
 		"nom": "Epave de l'USS Johnston",
@@ -830,6 +871,18 @@
 		]
 	},
 	{
+		"id": "narcomedusae",
+		"img": "narcomedusae.png",
+		"nom": "Narcomedusae",
+		"descriptionPart1": "Profondeur : ? - 7220 m",
+		"gridRow": "708 / span 4",
+		"gridColumn": "2 / span 2",
+		"sources": [
+			"https://academic.oup.com/plankt/article/43/1/20/6063517",
+			"https://fr.wikipedia.org/wiki/Narcomedusae"
+		]
+	},
+	{
 		"id": "grandgousier-pelican",
 		"img": "grandgousier-pélican.png",
 		"nom": "Grandgousier pélican",
@@ -840,6 +893,31 @@
 		"gridColumn": "4 / span 4",
 		"sources": [
 			"https://fr.wikipedia.org/wiki/Eurypharynx_pelecanoides"
+		]
+	},
+	{
+		"id": "pseudoliparis-amblystomopsis",
+		"img": "Pseudoliparis-amblystomopsis.png",
+		"nom": "Pseudoliparis amblystomopsis",
+		"descriptionPart1": "Il s'agit d'une espèce de poissons qui se rencontre dans les fosses des Kouriles et du Japon dans le Pacifique Ouest. ",
+		"descriptionPart2": "Une équipe provenant d'instituts japonais et britanniques a découvert en octobre 2008 un banc de Pseudoliparis amblystomopsis à près de 7 700 m de profondeur dans la fosse du Japon. Il s'agissait, à l'époque, des poissons vivants les plus profonds filmés",
+		"descriptionPart3": "Profondeur : 6153 - 7000 m",
+		"gridRow": "762 / span 4",
+		"gridColumn": "4 / span 4",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/Pseudoliparis_amblystomopsis"
+		]
+	},
+	{
+		"id": "eurythenes-gryllus",
+		"img": "eurythenes-gryllus.png",
+		"nom": "Eurythenes gryllus",
+		"descriptionPart1": "Il s'agit d'un prédateur et d'un charognard. Il possède des chimiorécepteurs, des  cellules nerveuses capable de détecter des substances chimiques, ce qui lui permet de détecter les carcasses qui atteignent le fond.",
+		"descriptionPart2": "Profondeur : 550 - 7800 m",
+		"gridRow": "772 / span 4",
+		"gridColumn": "4 / span 4",
+		"sources": [
+			"https://en.wikipedia.org/wiki/Eurythenes_gryllus"
 		]
 	}
 ]
