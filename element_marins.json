@@ -743,8 +743,8 @@
 		"descriptionPart1": "Comme l'indique son appellation anglaise de cookiecutter shark (« requin emporte-pièce »), le squalelet féroce prélève des rondelles de chair à la surface de grands animaux marins pour se nourrir. Les marques faites par des squalelets féroces ont été trouvées sur une grande variété de mammifères marins et de poissons, ainsi que sur des sous-marins, des câbles sous-marins.",
 		"descriptionPart2": "Il migre verticalement tous les jours, s'approchant de la surface au crépuscule et redescendant à l'aube.",
 		"descriptionPart3": "Profondeur : 0 - 3700 m",
-		"gridRow": "500 / span 4",
-		"gridColumn": "3 / span 4",
+		"gridRow": "510 / span 1",
+		"gridColumn": "6 / span 1",
 		"sources": [
 			"https://fr.wikipedia.org/wiki/Squalelet_f%C3%A9roce"
 		]
