@@ -666,7 +666,7 @@
 		"descriptionPart1": "Le bathynome géant est un cas de gigantisme abyssal. En effet il peut atteindre les 50 cm pour 1,7 kg, alors que les autres isopodes mesurent à peine 2 cm.",
 		"descriptionPart2": "Il est capable de longues périodes de jeûne forcé, dont certaines ont été mesurées à plus de cinq ans en aquarium. Ce qui ne l'empêche pas d'être doté d'un féroce appétit, et lorsque l'occasion se présente de dévorer jusqu'à se remplir le ventre au point de compromettre ses capacités locomotrices",
 		"descriptionPart3": "Profondeur : 170 - 2140 m",
-		"gridRow": "372 / span 2",
+		"gridRow": "409 / span 2",
 		"gridColumn": "4 / span 4",
 		"sources": [
 			"https://fr.wikipedia.org/wiki/Bathynome_g%C3%A9ant"
@@ -692,8 +692,8 @@
 		"descriptionPart1": "Le Gastéropode écailleux est une espèce d'escargot hydrothermal de haute mer.",
 		"descriptionPart2": "La couche supérieure de sa coquille est la seule connue contenant du fer, ce qui lui permet de résister à des conditions de vie très rude",
 		"descriptionPart3": "Il vit à plus de 2 400 mètres de profondeur dans l'océan Indien près des cheminées hydrothermales.",
-		"gridRow": "425 / span 4",
-		"gridColumn": "3 / span 4",
+		"gridRow": "425 / span 3",
+		"gridColumn": "1 / span 2",
 		"sources": [
 			"https://fr.wikipedia.org/wiki/Chrysomallon_squamiferum"
 		]
@@ -705,8 +705,8 @@
 		"descriptionPart1": "Elle est reconnaissable aux soies abondantes qui couvrent ses pattes, à l'origine de la deuxième partie de son nom. Ces soies semblent abriter des bactéries.",
 		"descriptionPart2": " Les pinces poilues contiennent des bactéries,  que la créature pourrait utiliser pour détoxifier les minéraux toxiques de l'eau émise par les cheminées hydrothermales où elle vit. Ce processus est connu sous le nom de chimiosynthèse.",
 		"descriptionPart3": "Profondeur : ? - 2500 m",
-		"gridRow": "428 / span 4",
-		"gridColumn": "3 / span 4",
+		"gridRow": "430 / span 4",
+		"gridColumn": "2 / span 3",
 		"sources": [
 			"https://fr.wikipedia.org/wiki/Kiwa_hirsuta"
 		]
@@ -718,7 +718,7 @@
 		"descriptionPart1": "Le grand avaleur est une espèce de poissons abyssaux qui se caractérise par l'extensibilité des mâchoires supérieure et inférieure et par l'élasticité de son estomac (ce qui lui permet d'avaler des proies plus grandes que lui, jusqu'à plus de quatre fois sa taille). Sa taille ne dépasse pas 25 centimètres.",
 		"descriptionPart2": "Profondeur : 700 - 2745 m",
 		"gridRow": "430 / span 2",
-		"gridColumn": "5 / span 2",
+		"gridColumn": "6 / span 2",
 		"sources": [
 			"https://fr.wikipedia.org/wiki/Grand_avaleur"
 		]
@@ -730,8 +730,8 @@
 		"descriptionPart1": "Chondrocladia lyra est une espèce d'éponges découverte en 2012 dans la Pacifique nord-est.",
 		"descriptionPart2": "Des proies de crustacés piégés sur les branches fournissent une preuve du régime carnivore de l'organisme.",
 		"descriptionPart3": "Profondeur : 3300 - 3400 m (mais pourrait vivre jusqu'à 5000 m de profondeur",
-		"gridRow": "435 / span 2",
-		"gridColumn": "5 / span 2",
+		"gridRow": "490 / span 4",
+		"gridColumn": "3 / span 4",
 		"sources": [
 			"https://en.wikipedia.org/wiki/Chondrocladia_lyra"
 		]
