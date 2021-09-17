@@ -660,6 +660,19 @@
 		]
 	},
 	{
+		"id": "bathynome-geant",
+		"img": "bathynome-geant.png",
+		"nom": "Bathynome géant",
+		"descriptionPart1": "Le bathynome géant est un cas de gigantisme abyssal. En effet il peut atteindre les 50 cm pour 1,7 kg, alors que les autres isopodes mesurent à peine 2 cm.",
+		"descriptionPart2": "Il est capable de longues périodes de jeûne forcé, dont certaines ont été mesurées à plus de cinq ans en aquarium. Ce qui ne l'empêche pas d'être doté d'un féroce appétit, et lorsque l'occasion se présente de dévorer jusqu'à se remplir le ventre au point de compromettre ses capacités locomotrices",
+		"descriptionPart3": "Profondeur : 170 - 2140 m",
+		"gridRow": "372 / span 2",
+		"gridColumn": "4 / span 4",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/Bathynome_g%C3%A9ant"
+		]
+	},
+	{
 		"id": "elephants-de-mer",
 		"img": "elephant-de-mer.png",
 		"nom": "Eléphants de mer",
@@ -672,6 +685,38 @@
 			"https://fr.wikipedia.org/wiki/%C3%89l%C3%A9phant_de_mer"
 		]
 	},
+	{
+		"id": "gasteropode-ecailleux",
+		"img": "Gastéropode-écailleux.png",
+		"nom": "Gastéropode écailleux",
+		"descriptionPart1": "Le Gastéropode écailleux est une espèce d'escargot hydrothermal de haute mer.",
+		"descriptionPart2": "La couche supérieure de sa coquille est la seule connue contenant du fer, ce qui lui permet de résister à des conditions de vie très rude",
+		"descriptionPart3": "Il vit à plus de 2 400 mètres de profondeur dans l'océan Indien près des cheminées hydrothermales.",
+		"gridRow": "425 / span 4",
+		"gridColumn": "3 / span 4",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/Chrysomallon_squamiferum"
+		]
+	},
+	
+	{
+		"id": "crabe-yeti",
+		"img": "crabe-yéti.png",
+		"nom": "Crabe yéti",
+		"descriptionPart1": "Elle est reconnaissable aux soies abondantes qui couvrent ses pattes, à l'origine de la deuxième partie de son nom. Ces soies semblent abriter des bactéries.",
+		"descriptionPart2": " Les pinces poilues contiennent des bactéries,  que la créature pourrait utiliser pour détoxifier les minéraux toxiques de l'eau émise par les cheminées hydrothermales où elle vit. Ce processus est connu sous le nom de chimiosynthèse.",
+		"descriptionPart3": "Profondeur : ? - 2500 m",
+		"gridRow": "428 / span 4",
+		"gridColumn": "3 / span 4",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/Kiwa_hirsuta"
+		]
+	},
+	
+	
+	 (2500m)
+	
+	
 	{
 		"id": "grand-avaleur",
 		"img": "grand-avaleur.png",
@@ -751,7 +796,7 @@
 		]
 	},
 	{
-		"id": "grandgousier-pélican",
+		"id": "grandgousier-pelican",
 		"img": "grandgousier-pélican.png",
 		"nom": "Grandgousier pélican",
 		"descriptionPart1": "Le grandgousier-pélican est olive ou noir. Il possède un corps d’anguille, surmonté d’une tête volumineuse. La bouche, qui représente un quart de la longueur du corps, forme comme une poche dans la partie inférieure, à l'image du bec des pélicans.",
