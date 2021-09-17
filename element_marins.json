@@ -737,13 +737,26 @@
 		]
 	},
 	{
+		"id": "squalelet-feroce",
+		"img": "squalelet-féroce.png",
+		"nom": "Squalelet féroce",
+		"descriptionPart1": "Comme l'indique son appellation anglaise de cookiecutter shark (« requin emporte-pièce »), le squalelet féroce prélève des rondelles de chair à la surface de grands animaux marins pour se nourrir. Les marques faites par des squalelets féroces ont été trouvées sur une grande variété de mammifères marins et de poissons, ainsi que sur des sous-marins, des câbles sous-marins.",
+		"descriptionPart2": "Il migre verticalement tous les jours, s'approchant de la surface au crépuscule et redescendant à l'aube.",
+		"descriptionPart3": "Profondeur : 0 - 3700 m",
+		"gridRow": "500 / span 4",
+		"gridColumn": "3 / span 4",
+		"sources": [
+			"https://fr.wikipedia.org/wiki/Squalelet_f%C3%A9roce"
+		]
+	},
+	{
 		"id": "titanic",
 		"img": "titanic.png",
 		"nom": "Titanic",
 		"descriptionPart1": "Le RMS Titanic est un paquebot transatlantique britannique qui fait naufrage dans l'océan Atlantique Nord en 1912 à la suite d'une collision avec un iceberg, lors de son voyage inaugural de Southampton à New York.",
 		"descriptionPart2": "Entre 1 490 et 1 520 personnes trouvent la mort, ce qui fait de cet événement l'une des plus grandes catastrophes maritimes survenues en temps de paix.",
 		"descriptionPart3": "L'épave du Titanic est localisée le 1er septembre 1985 par le professeur Robert Ballard. Elle gît à 3 843 mètres de profondeur.",
-		"gridRow": "545 / span 10",
+		"gridRow": "514 / span 10",
 		"gridColumn": "2 / span 6",
 		"sources": [
 			"https://fr.wikipedia.org/wiki/Titanic"
@@ -756,7 +769,7 @@
 		"descriptionPart1": "Abusivementappelés « pieuvre (ou poulpe) Dumbo » en raison de leur corps enforme de patte d’éléphant et de leurs deux nageoires en forme d'oreilles. Ils n'ont en fait que peu de points en commun avec les pieuvres. Leur nom scientifique est Grimpoteuthis.",
 		"descriptionPart2": "Ils peuvent faire varier l'aspect de la couche transparente de leur peau à volonté.",
 		"descriptionPart3": "Profondeur : 500 - 4000 m",
-		"gridRow": "560 / span 3",
+		"gridRow": "529 / span 3",
 		"gridColumn": "3 / span 3",
 		"sources": [
 			"https://fr.wikipedia.org/wiki/Grimpoteuthis"
@@ -769,7 +782,7 @@
 		"descriptionPart1": "C'est un poisson des grands fond, de forme très allongée, aux gros yeux, à mâchoires garnie de longues dents recourbées.",
 		"descriptionPart2": "Ses dents l'empêchent de fermer sa bouche, tant elles sont grandes et tranchantes.",
 		"descriptionPart3": "Profondeur : 200 - 4700 m",
-		"gridRow": "603 / span 3",
+		"gridRow": "572 / span 3",
 		"gridColumn": "4 / span 3",
 		"sources": [
 			"https://fr.wikipedia.org/wiki/Chauliodus_sloani"
@@ -782,7 +795,7 @@
 		"descriptionPart1": "Proportionnellement à la taille de son corps, le poisson-ogre a les plus longues dents du règne animal.",
 		"descriptionPart2": "Les jeunes poisson-ogres sont morphologiquement très différents des adultes. Ces différences marquées ont d'ailleurs amené les deux stades de leur développement à être parfois classés comme deux espèces distinctes",
 		"descriptionPart3": "Profondeur : 500 - 5000 m",
-		"gridRow": "623 / span 3",
+		"gridRow": "592 / span 3",
 		"gridColumn": "2 / span 3",
 		"sources": [
 			"https://fr.wikipedia.org/wiki/Anoplogaster_cornuta",
@@ -796,10 +809,24 @@
 		"descriptionPart1": "L'USS Johnston (DD-557) est un destroyer américain. Il est coulé pendant la seconde guerre mondiale.",
 		"descriptionPart2": "L’épave ne sera retrouvée qu’en 2019 à 6468,6m mètres de profondeur et ne sera formellement identifiée au printemps 2021.",
 		"descriptionPart3": "Il s'agit de l'épave la plus profonde connue.",
-		"gridRow": "709 / span 10",
+		"gridRow": "678 / span 10",
 		"gridColumn": "3 / span 5",
 		"sources": [
 			"https://www.guinnessworldrecords.com/world-records/deepest-shipwreck"
+		]
+	},
+	{
+		"id": "cochon-de-mer",
+		"img": "cochon-de-mer.png",
+		"nom": "Cochon de mer",
+		"descriptionPart1": " Il s'agit d'un genre de concombres de mer des abysses. Ils vivent généralement en groupes très denses de plusieurs centaines d'individus, arpentant lentement le fond dans la même direction, en sens contraire au courant. Ce sont des dépositivores, qui se nourrissent en ingérant la couche supérieure du sédiment. Ils trient et portent ce sédiment à leur bouche au moyen de leurs tentacules.",
+		"descriptionPart2": " Ces espèces peuvent être parasitées par divers animaux, comme de petits mollusques gastéropodes",
+		"descriptionPart3": "Profondeur : 2100 - 6770 m",
+		"gridRow": "729 / span 4",
+		"gridColumn": "4 / span 4",
+		"sources": [
+			"https://en.wikipedia.org/wiki/Scotoplanes",
+			"http://www.marinespecies.org/aphia.php?p=taxdetails&id=148773"
 		]
 	},
 	{
@@ -809,7 +836,7 @@
 		"descriptionPart1": "Le grandgousier-pélican est olive ou noir. Il possède un corps d’anguille, surmonté d’une tête volumineuse. La bouche, qui représente un quart de la longueur du corps, forme comme une poche dans la partie inférieure, à l'image du bec des pélicans.",
 		"descriptionPart2": "Un organe lumineux est situé à l'extrémité de la queue. Il brille d'un rouge ou d'un rose impressionnant. Cet organe est utilisé comme leurre. La lumière rose ainsi que les flash rouges lui permettent d'attirer ses proies.",
 		"descriptionPart3": "Profondeur : 500 - 7625 m",
-		"gridRow": "783 / span 4",
+		"gridRow": "752 / span 4",
 		"gridColumn": "4 / span 4",
 		"sources": [
 			"https://fr.wikipedia.org/wiki/Eurypharynx_pelecanoides"
