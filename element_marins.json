@@ -724,6 +724,19 @@
 		]
 	},
 	{
+		"id": "chondrocladia-lyra",
+		"img": "chondrocladia-lyra.png",
+		"nom": "Chondrocladia lyra",
+		"descriptionPart1": "Chondrocladia lyra est une espèce d'éponges découverte en 2012 dans la Pacifique nord-est.",
+		"descriptionPart2": "Des proies de crustacés piégés sur les branches fournissent une preuve du régime carnivore de l'organisme.",
+		"descriptionPart3": "Profondeur : 3300 - 3400 m (mais pourrait vivre jusqu'à 5000 m de profondeur",
+		"gridRow": "435 / span 2",
+		"gridColumn": "5 / span 2",
+		"sources": [
+			"https://en.wikipedia.org/wiki/Chondrocladia_lyra"
+		]
+	},
+	{
 		"id": "titanic",
 		"img": "titanic.png",
 		"nom": "Titanic",
