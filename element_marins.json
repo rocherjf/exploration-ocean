@@ -919,5 +919,17 @@
 		"sources": [
 			"https://en.wikipedia.org/wiki/Eurythenes_gryllus"
 		]
+	},
+	{
+		"id": "abyssobrotula-galatheae",
+		"img": "abyssobrotula-galatheae.png",
+		"nom": "Abyssobrotula galatheae",
+		"descriptionPart1": "Abyssobrotula galatheae est une espèce de poissons marins. Il détient le record du poisson le plus profond jamais pêché, il fut capturé par un chalut à une profondeur de 8 370 m dans la fosse de Porto Rico.",
+		"descriptionPart2": "Profondeur : ? - 8370 m",
+		"gridRow": "790 / span 2",
+		"gridColumn": "4 / span 4",
+		"sources": [
+			"https://en.wikipedia.org/wiki/Eurythenes_gryllus"
+		]
 	}
 ]
