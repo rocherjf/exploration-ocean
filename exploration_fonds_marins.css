@@ -48,7 +48,7 @@ body {
   height: calc(100% - 215px);
   grid-template-rows: repeat(5,20%);
   grid-template-columns: repeat(8,1fr);
-  font-family: Roboto, sans-serif;
+  font-family: 'Roboto', sans-serif;
   text-align: center;
   
 }
@@ -135,7 +135,7 @@ body {
   
   z-index: 1;
   
-  font-family: cursive;
+  font-family: 'Roboto', sans-serif;
   font-weight: lighter;
   font-size: medium;
 
@@ -173,13 +173,26 @@ body {
   z-index: 1;
 }
 
+
+
 .animal-legende {
  text-transform: uppercase;
- font-family: cursive;
+ font-family: 'Roboto', sans-serif;
  font-weight: lighter;
- font-size: large;
  color: rgb(255, 255, 150);
  text-align: center;
+}
+
+@media only screen and (max-width: 800px) {
+  .animal-legende {
+      font-size:12px;
+  }
+}
+
+@media only screen and (min-width: 800px) {
+  .animal-legende {
+      font-size:large;
+  }
 }
 
 
@@ -203,7 +216,7 @@ body {
 
 #profondeur-texte {
   display: inline-block;
-  font-family: Roboto, sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: bold;
   font-size: x-large; 
   color: white;

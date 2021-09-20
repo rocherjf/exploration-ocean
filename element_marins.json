@@ -91,7 +91,7 @@
 		"nom": "Congre vert",
 		"descriptionPart1": "Le congre vert fait partie de la famille des murènes. Les poissons de cette famille sont caractérisés par l’absence de nageoires paires, une peau lisse et épaisse sans écailles.",
 		"gridRow": "14 / span 3",
-		"gridColumn": "7 / span 1",
+		"gridColumn": "8 / span 1",
 		"sources": ""
 	},
 	{
@@ -135,7 +135,7 @@
 		"descriptionPart1": "Petit poisson qui peut atteindre les 5 cm, il est néanmoins très visible,ce qui explique sans doute qu'il se cache dans les récifs à une profondeur entre 25 et 100m.",
 		"descriptionPart2": "A cause de son phénotype très coloré ce poisson est recherché pour les aquariums.",
 		"gridRow": "25 / span 1",
-		"gridColumn": "6 / span 2",
+		"gridColumn": "7 / span 2",
 		"sources": [
 			"https://en.wikipedia.org/wiki/Liopropoma_carmabi"
 		]
