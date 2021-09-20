@@ -1,0 +1,268 @@
+html, body { height: 100%; }
+
+body {
+  overflow-x: hidden;
+  margin: 0px;
+  background: #000000;
+}
+
+.container {
+  height: fit-content;
+}
+
+#ciel-wrapper {
+  background:#A2DBFA; 
+  height: 80vh;
+  width: 100%;
+}
+
+#soleil {
+  top : 5%;
+  left: 10%;
+  border: none;
+  height: 170px;
+  position : absolute;
+  z-index: 1;
+}
+
+#nuages {
+  background: url(img/enTete/nuages.svg) repeat-x; 
+  height: 215px;
+  animation: ciel 120s cubic-bezier( 0.36, 0.45, 0.63, 0.53)  infinite;
+  opacity: 1;
+  z-index: 2;
+  position: relative;
+}
+
+@keyframes ciel {
+  0% {
+    margin-left: -2973px;
+  }
+  100% {
+    margin-left: 0;
+  }
+}
+
+#entete-texte{
+  display: grid;
+  height: calc(100% - 215px);
+  grid-template-rows: repeat(5,20%);
+  grid-template-columns: repeat(8,1fr);
+  font-family: Roboto, sans-serif;
+  text-align: center;
+  
+}
+
+#entete-titre{
+  grid-row: 3 / span 1;
+  grid-column: 2 / span 6;
+  color:#0909b1;
+  font-size: xxx-large;
+}
+
+#entete-auteur{
+  grid-row: 4 / span 1;
+  grid-column: 3 / span 5;
+  font-size: x-large;
+  color:#2929eb;
+}
+
+/* Gestion de la vague */
+
+#vague-wrapper {
+  background:#A2DBFA; 
+}
+
+#vague {
+  background: url(img/enTete/vague.svg) repeat-x; 
+  height: 196px;
+  animation: vague 12s cubic-bezier( 0.36, 0.45, 0.63, 0.53) infinite;
+  opacity: 1;
+}
+
+@keyframes vague {
+  0% {
+    margin-left: -1600px;
+  }
+  100% {
+    margin-left: 0;
+  }
+}
+
+
+#ocean {
+	
+  background:linear-gradient(#015871 1%, #002530 3%, #000d11 15%, #000000 30%);
+
+  display: grid;
+
+  grid-template-rows: repeat(970, 50px);
+  grid-template-columns: repeat(8,1fr);
+}
+
+
+/* Gestion du texte*/
+.wrapper-texte {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  font-size: xx-large; 
+  color: white;
+}
+
+
+/* Gestion des animaux */ 
+.wrapper-animal {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  text-align: center;
+}
+
+/* info sur l'animal*/
+.wrapper-animal .animal-info {
+  visibility: hidden;
+  
+  background-color: #555;
+  color: #fff;
+  text-align: justify;
+  border-radius: 12px;
+  padding: 8px 8px;
+  
+  z-index: 1;
+  
+  font-family: cursive;
+  font-weight: lighter;
+  font-size: medium;
+
+  position: absolute;
+  bottom: 100%;
+  left: 10%;
+  width: 80%;
+  
+}
+
+
+
+
+
+/* afficher/masquer les infos */
+.animal-info.show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+}
+
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
+}
+
+
+.animal-img {
+  opacity:0.9;
+  
+  max-width: 100%;
+  max-height: 100%;
+  height: 100%;
+  object-fit: contain;
+  z-index: 1;
+}
+
+.animal-legende {
+ text-transform: uppercase;
+ font-family: cursive;
+ font-weight: lighter;
+ font-size: large;
+ color: rgb(255, 255, 150);
+ text-align: center;
+}
+
+
+#profondeur {
+  position: sticky;
+  bottom: 18%;
+  width: 100%;
+  border-bottom: 1px dashed rgba(255, 255, 255, 0.2);
+  padding-bottom: 1px;
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out 0s;
+  z-index: 3;
+}
+
+#profondeur-texte-wrapper{
+  text-align: center;
+  position: sticky;
+  bottom: 18%;
+  z-index: 0;
+}
+
+#profondeur-texte {
+  display: inline-block;
+  font-family: Roboto, sans-serif;
+  font-weight: bold;
+  font-size: x-large; 
+  color: white;
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out 0s;
+  z-index: 2;
+}
+
+
+/** gestion plancher océanique */
+#plancher-oceanique-wrapper {
+  background:#f0e7ce; 
+  
+}
+
+#plancher-oceanique {
+  background: url(img/piedDePage/fond-oceanique.svg) repeat-x; 
+  height: 196px;
+  opacity: 1;
+}
+
+
+#pied-de-page {
+  background: linear-gradient(180deg,#f0e7ce,#ada186);
+  position: relative;
+  height: 100vh;
+  width: 100%;
+}
+
+#pied-de-page-contenu{
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  top: 35%;
+}
+
+#pied-de-page-titre {
+  font-size: xxx-large;
+  color:#0909b1;
+  font-weight: 700;
+  text-align: center;
+}
+
+#pied-de-page-auteur {
+  margin-top: 2.5%;
+  font-size: x-large;
+  color:#2929eb;
+}
+
+#pied-de-page-remerciement {
+  margin-top: 2.5%;
+  font-size: x-large;
+  color:#2929eb;
+}
+
+#pied-de-page-plus-de-projets {
+  margin-top: 5%;
+  font-size: x-large;
+  color:#2929eb;
+}
+
+
