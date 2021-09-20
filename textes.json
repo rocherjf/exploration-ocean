@@ -90,5 +90,61 @@
 		"gridRow": "254 / span 2",
 		"gridColumn": "1 / span 8",
 		"sources": ""
+	},
+	{
+		"id": "challenger-deep-p1",
+		"description": "Le 23 janvier 1960, environ 9 ans avant l'alunissage, deux hommes ont dépassé les 7315 mètres de profondeur.",
+		"gridRow": "735 / span 2",
+		"gridColumn": "1 / span 8",
+		"sources": ""
+	},
+	{
+		"id": "challenger-deep-p2",
+		"description": "Ces hommes, Jacques Piccard et Don Walsh, sont à bord du sous-marin Trieste et descendent lentement dans la fosse des Mariannes pour atteindre Challenger Deep, le point le plus profond jamais mesuré dans les océans.",
+		"gridRow": "775 / span 2",
+		"gridColumn": "1 / span 8",
+		"sources": ""
+	},
+	{
+		"id": "challenger-deep-p3",
+		"description": "A 9900 mètres, l'équipage est surpris par un craquement sourd provenant du bathyscaphe. Au même moment, un choc assez violent fait trembler la cabine.",
+		"gridRow": "800 / span 2",
+		"gridColumn": "1 / span 8",
+		"sources": ""
+	},
+	{
+		"id": "challenger-deep-p4",
+		"description": "Don Walsh se demande s' ils ont touché le fond mais le Trieste continue sa descente.",
+		"gridRow": "820 / span 2",
+		"gridColumn": "1 / span 8",
+		"sources": ""
+	},
+	{
+		"id": "challenger-deep-p5",
+		"description": "Pendant quelques minutes, ils arrêtent tout ce qui fait du bruit à bord : passage de l'oxygène dans l'injecteur, bourdonnement des instruments électroniques. Dans le silence pesant, ils n'entendent que des petits craquements, comme des fourmis dans une fourmilière, des petits craquements venant de partout...",
+		"gridRow": "840 / span 2",
+		"gridColumn": "1 / span 8",
+		"sources": ""
+	},
+	{
+		"id": "challenger-deep-p6",
+		"description": "Jacques Piccard se demande s' il s'agit de crevettes ou si c'est la peinture de la cabine est-elle en train de craquer ?  La descente elle-même est régulière, rassurante. Ils continuent donc.",
+		"gridRow": "860 / span 2",
+		"gridColumn": "1 / span 8",
+		"sources": ""
+	},
+	{
+		"id": "challenger-deep-p7",
+		"description": "Le Triest touche le fond (10 916m) à quelques mètres d'un poisson inconnu. Ils y restent 30 minutes. En voulant allumer le projecteur arrière, ils découvrent que le bruit et la secousse provenaient du grand hublot du tube d'entrée qui a légèrement craqué. Ce petit accident ne les met pas en danger. ",
+		"gridRow": "880 / span 2",
+		"gridColumn": "1 / span 8",
+		"sources": ""
+	},
+	{
+		"id": "challenger-deep-p8",
+		"description": "Depuis 1960, 22 personnes sont allées dans Challenger Deep. Par comparaison, de juillet 1969 à décembre 1972, 24 personnes ont approché la Lune dont 12 ont pu y poser le pied. Le record de profondeur est maintenant de 10 925 m",
+		"gridRow": "900 / span 2",
+		"gridColumn": "1 / span 8",
+		"sources": ""
 	}
 ]
