@@ -683,7 +683,7 @@
 		"descriptionPart2": "Ils plongent profondément : la plongée la plus profonde mesurée par une équipe scientifique a révélé que l'éléphant de mer peut descendre à une profondeur de 2 388 mètres.",
 		"descriptionPart3": "Profondeur : 0 - 2388 m",
 		"gridRow": "420 / span 4",
-		"gridColumn": "3 / span 4",
+		"gridColumn": "5 / span 4",
 		"sources": [
 			"https://fr.wikipedia.org/wiki/%C3%89l%C3%A9phant_de_mer"
 		]
@@ -695,8 +695,8 @@
 		"descriptionPart1": "Le Gastéropode écailleux est une espèce d'escargot hydrothermal de haute mer.",
 		"descriptionPart2": "La couche supérieure de sa coquille est la seule connue contenant du fer, ce qui lui permet de résister à des conditions de vie très rude",
 		"descriptionPart3": "Il vit à plus de 2 400 mètres de profondeur dans l'océan Indien près des cheminées hydrothermales.",
-		"gridRow": "425 / span 3",
-		"gridColumn": "1 / span 2",
+		"gridRow": "424 / span 3",
+		"gridColumn": "1 / span 3",
 		"sources": [
 			"https://fr.wikipedia.org/wiki/Chrysomallon_squamiferum"
 		]
@@ -708,7 +708,7 @@
 		"descriptionPart1": "Elle est reconnaissable aux soies abondantes qui couvrent ses pattes, à l'origine de la deuxième partie de son nom. Ces soies semblent abriter des bactéries.",
 		"descriptionPart2": " Les pinces poilues contiennent des bactéries,  que la créature pourrait utiliser pour détoxifier les minéraux toxiques de l'eau émise par les cheminées hydrothermales où elle vit. Ce processus est connu sous le nom de chimiosynthèse.",
 		"descriptionPart3": "Profondeur : ? - 2500 m",
-		"gridRow": "430 / span 4",
+		"gridRow": "431 / span 4",
 		"gridColumn": "2 / span 3",
 		"sources": [
 			"https://fr.wikipedia.org/wiki/Kiwa_hirsuta"
@@ -721,7 +721,7 @@
 		"descriptionPart1": "Le grand avaleur est une espèce de poissons abyssaux qui se caractérise par l'extensibilité des mâchoires supérieure et inférieure et par l'élasticité de son estomac (ce qui lui permet d'avaler des proies plus grandes que lui, jusqu'à plus de quatre fois sa taille). Sa taille ne dépasse pas 25 centimètres.",
 		"descriptionPart2": "Profondeur : 700 - 2745 m",
 		"gridRow": "430 / span 2",
-		"gridColumn": "7 / span 2",
+		"gridColumn": "6 / span 3",
 		"sources": [
 			"https://fr.wikipedia.org/wiki/Grand_avaleur"
 		]
