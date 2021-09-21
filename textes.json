@@ -58,7 +58,7 @@
 	},
 	{
 		"id": "vague-interne-p6",
-		"description": "En 2021, un sous marin indonésien a sombré, une des hypothéses avancées est la présence d'une vague interne qui aurait emmené le sous marin trop profond",
+		"description": "En 2021, un sous marin indonésien a sombré, une des hypothéses est qu'une vague interne l'aurait emmené trop profond",
 		"gridRow": "160 / span 3",
 		"gridColumn": "1 / span 8",
 		"sources": [
