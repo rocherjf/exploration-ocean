@@ -748,7 +748,7 @@
 		"descriptionPart2": "Il migre verticalement tous les jours, s'approchant de la surface au crépuscule et redescendant à l'aube.",
 		"descriptionPart3": "Profondeur : 0 - 3700 m",
 		"gridRow": "510 / span 1",
-		"gridColumn": "6 / span 1",
+		"gridColumn": "6 / span 2",
 		"sources": [
 			"https://fr.wikipedia.org/wiki/Squalelet_f%C3%A9roce"
 		]
