@@ -135,7 +135,7 @@
 	},
 	{
 		"id": "challenger-deep-p7",
-		"description": "Le Triest touche le fond (10 916m) à quelques mètres d'un poisson inconnu. Ils y restent 30 minutes. En voulant allumer le projecteur arrière, ils découvrent que le bruit et la secousse provenaient du grand hublot du tube d'entrée qui a légèrement craqué. Ce petit accident ne les met pas en danger. ",
+		"description": "Le Triest touche le fond (10 916m) à quelques mètres d'un poisson inconnu. En voulant allumer le projecteur arrière, ils découvrent que le bruit et la secousse provenaient d'un hublot du tube d'entrée qui a légèrement craqué. Ce qui est sans danger.",
 		"gridRow": "966 / span 2",
 		"gridColumn": "1 / span 8",
 		"sources": ""
@@ -143,7 +143,7 @@
 	{
 		"id": "challenger-deep-p8",
 		"description": "Depuis 1960, 22 personnes sont allées dans Challenger Deep. Par comparaison, de juillet 1969 à décembre 1972, 24 personnes ont approché la Lune dont 12 ont pu y poser le pied. Le record de profondeur est maintenant de 10 925 m",
-		"gridRow": "971 / span 2",
+		"gridRow": "976 / span 2",
 		"gridColumn": "1 / span 8",
 		"sources": ""
 	}

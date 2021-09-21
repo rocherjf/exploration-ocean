@@ -41,17 +41,6 @@
 		"sources": ""
 	},
 	{
-		"id": "amoco-cadiz",
-		"img": "vlcc.png",
-		"nom": "Amoco Cadiz",
-		"descriptionPart1": "Le 16 mars 1978, dans le Finistère, l’Amoco Cadiz est en route pour Rotterdam avec à son bord 220 000 tonnes de pétrole brut, suite à une avarie il devient impossible de diriger le bateau.",
-		"descriptionPart2": "Après plusieurs tentatives infructueuses de remorquage, le pétrolier heurte des rochers et s’échoue. L’équipage sera évacué et l’une des plus terribles marées noires de l’histoire va souiller les côtes bretonnes.",
-		"descriptionPart3": "Son épave est à 30 m de profondeur.",
-		"gridRow": "5 / span 9",
-		"gridColumn": "4 / span 4",
-		"sources": ""
-	},
-	{
 		"id": "tortue-verte",
 		"img": "tortue-verte.png",
 		"nom": "Tortue verte",
