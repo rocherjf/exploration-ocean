@@ -121,21 +121,21 @@
 	},
 	{
 		"id": "challenger-deep-p5",
-		"description": "Pendant quelques minutes, ils arrêtent tout ce qui fait du bruit à bord : passage de l'oxygène dans l'injecteur, bourdonnement des instruments électroniques. Dans le silence pesant, ils n'entendent que des petits craquements, comme des fourmis dans une fourmilière, des petits craquements venant de partout...",
+		"description": "Pendant quelques minutes, ils arrêtent tout ce qui fait du bruit à bord. Dans le silence pesant, ils n'entendent que des petits craquements, des petits craquements venant de partout...",
 		"gridRow": "930 / span 2",
 		"gridColumn": "1 / span 8",
 		"sources": ""
 	},
 	{
 		"id": "challenger-deep-p6",
-		"description": "Jacques Piccard se demande s' il s'agit de crevettes ou si c'est la peinture de la cabine est-elle en train de craquer.  La descente elle-même est régulière, rassurante. Ils continuent donc.",
+		"description": "La descente se fait sans problème, ils continuent donc.",
 		"gridRow": "945 / span 2",
 		"gridColumn": "1 / span 8",
 		"sources": ""
 	},
 	{
 		"id": "challenger-deep-p7",
-		"description": "Le Triest touche le fond (10 916m) à quelques mètres d'un poisson inconnu. En voulant allumer le projecteur arrière, ils découvrent que le bruit et la secousse provenaient d'un hublot du tube d'entrée qui a légèrement craqué. Ce qui est sans danger.",
+		"description": "Le Triest touche le fond (10 916m) à quelques mètres d'un poisson inconnu. C'est à ce moment qu'ils découvrent que le bruit et la secousse provenaient d'un hublot du tube d'entrée qui a légèrement craqué. Ce qui est sans danger.",
 		"gridRow": "966 / span 2",
 		"gridColumn": "1 / span 8",
 		"sources": ""
