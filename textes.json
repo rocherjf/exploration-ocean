@@ -9,7 +9,7 @@
 	{
 		"id": "vague-interne-p1",
 		"description": "Les vagues internes sont des vagues qui apparaissent à l'intérieur d'un milieu fluide, plutôt qu'à sa surface.",
-		"gridRow": "136 / span 3",
+		"gridRow": "130 / span 3",
 		"gridColumn": "1 / span 8",
 		"sources": [
 			"https://www.nature.com/articles/nature14399",
@@ -19,7 +19,7 @@
 	{
 		"id": "vague-interne-p2",
 		"description": "C'est ce qui se passe dans l'océan où la densité de l'eau varie en fonction de la température et de salinité.",
-		"gridRow": "142 / span 3",
+		"gridRow": "136 / span 3",
 		"gridColumn": "1 / span 8",
 		"sources": [
 			"https://www.nature.com/articles/nature14399",
@@ -29,7 +29,7 @@
 	{
 		"id": "vague-interne-p3",
 		"description": "En mer de Chine méridional des vagues internes de 200m ont pû être observées.",
-		"gridRow": "148 / span 3",
+		"gridRow": "142 / span 3",
 		"gridColumn": "1 / span 8",
 		"sources": [
 			"https://www.nature.com/articles/nature14399",
@@ -38,8 +38,8 @@
 	},
 	{
 		"id": "vague-interne-p4",
-		"description": "Ces vagues peuvent avoir de nombreux effets sur les échanges thermiques dans l'océean, le mélange et le transport des nutriments et même sur la navigation.",
-		"gridRow": "154 / span 3",
+		"description": "Ces vagues ont de nombreux effets : elles facilitent les échanges thermiques dans l'océean, le mélange et le transport des nutriments.",
+		"gridRow": "148 / span 3",
 		"gridColumn": "1 / span 8",
 		"sources": [
 			"https://www.nature.com/articles/nature14399",
@@ -48,6 +48,16 @@
 	},
 	{
 		"id": "vague-interne-p5",
+		"description": "Elles ont aussi des effets sur la navigation qui explique les ralentissements des bateaux sur une mer apparement calme. Les effets peuvent être plus dangereux.",
+		"gridRow": "154 / span 3",
+		"gridColumn": "1 / span 8",
+		"sources": [
+			"https://www.nature.com/articles/nature14399",
+			"https://polrismer.blog/2018/09/09/vagues-sous-marines/"
+		]
+	},
+	{
+		"id": "vague-interne-p6",
 		"description": "En 2021, un sous marin indonésien a sombré, une des hypothéses avancées est la présence d'une vague interne qui aurait emmené le sous marin trop profond",
 		"gridRow": "160 / span 3",
 		"gridColumn": "1 / span 8",
