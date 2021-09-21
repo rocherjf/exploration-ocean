@@ -46,8 +46,8 @@
 		"nom": "Tortue verte",
 		"descriptionPart1": "Leur carapace mesure en moyenne 115 cm et l'animal pèse entre 80 et 130 kg. Certains spécimens peuvent atteindre un poids de 300 kg pour une longueur de carapace de 1,5 m.",
 		"descriptionPart2": "C’est la plus rapide des tortues marines : elle peut atteindre une vitesse de près de 35 km/h",
-		"gridRow": "9 / span 3",
-		"gridColumn": "6 / span 2",
+		"gridRow": "8 / span 3",
+		"gridColumn": "7 / span 2",
 		"sources": ""
 	},
 	{
@@ -70,7 +70,7 @@
 		"descriptionPart1": "Il s'agit d'un poisson marin qui se rencontre dans la région Indo-Pacifique et dont la taille maximale connue est de 31 cm.",
 		"descriptionPart2": "Le chirurgien bleu fréquente les zones de 2 à 40 mètres de profondeur, notamment au niveau des récifs.",
 		"descriptionPart3": "Il se nourrit principalement de zooplancton mais peut s'alimenter aussi d’algues vivant sur les fonds marins. Pour se défendre de ses prédateurs, il a une épine cachée contre son corps à la base de sa queue.",
-		"gridRow": "12 / span 2",
+		"gridRow": "11 / span 2",
 		"gridColumn": "4 / span 2",
 		"sources": ""
 	},
