@@ -181,7 +181,7 @@
 		"descriptionPart2": "Les orques sont considérées comme des superprédateurs. Leur régime alimentaire est très diversifié.",
 		"descriptionPart3": "Les orques sont fortement sociales ; certaines populations sont composées de plusieurs familles matrilinéaires. Les techniques de chasse sophistiquées et les comportements vocaux sont transmis à travers les générations.",
 		"gridRow": "35 / span 5",
-		"gridColumn": "5 / span 3",
+		"gridColumn": "6 / span 3",
 		"sources": ""
 	},
 	{
@@ -205,7 +205,7 @@
 		"descriptionPart2": "Il plonge souvent jusqu'à 30 m de profondeur, mais on a enregistré des plongeons de plus de 150 m.",
 		"descriptionPart3": "Profondeur : 0 - 150m",
 		"gridRow": "45 / span 2",
-		"gridColumn": "2 / span 2",
+		"gridColumn": "1 / span 2",
 		"sources": ""
 	},
 	{
@@ -216,7 +216,7 @@
 		"descriptionPart2": "Ses mâchoires comporte 82 à 110 dents chacune. Il pèse entre 70 et 110 kg.",
 		"descriptionPart3": "Profondeur : 0 - 180m",
 		"gridRow": "47 / span 3",
-		"gridColumn": "6 / span 2",
+		"gridColumn": "7 / span 2",
 		"sources": ""
 	},
 	{
@@ -240,7 +240,7 @@
 		"descriptionPart2": "Les os de seiche sont constituée de calcaire, et se complexifient avec l'age.",
 		"descriptionPart3": "Profondeur : 0 - 200m",
 		"gridRow": "52 / span 2",
-		"gridColumn": "5 / span 2",
+		"gridColumn": "6 / span 2",
 		"sources": [
 			"https://www.fishipedia.fr/fr/mollusques/sepia-officinalis"
 		]
@@ -281,7 +281,7 @@
 		"descriptionPart2": "Cette espèce est considéré comme le poisson le plus rapide au monde. Il peut réaliser des pointes de vitesse à plus de 110km/h.",
 		"descriptionPart3": "Profondeur : 0 - 200m",
 		"gridRow": "65 / span 5",
-		"gridColumn": "6 / span 2",
+		"gridColumn": "7 / span 2",
 		"sources": [
 			"https://www.fishipedia.fr/fr/poissons?sch=poisson%20voilier"
 		]
@@ -331,7 +331,7 @@
 		"descriptionPart2": "Cette espèce possède de nombreuses épines piquantes : 11 ou 12 sur la nageoire dorsale et 3 sur la caudale.",
 		"descriptionPart3": "Profondeur : 25 - 300m",
 		"gridRow": "97 / span 3",
-		"gridColumn": "4 / span 2",
+		"gridColumn": "3 / span 2",
 		"sources": [
 			"https://www.fishipedia.fr/fr/poissons/diplodus-cervinus"
 		]
@@ -344,7 +344,7 @@
 		"descriptionPart2": "Les otaries à fourrure de Nouvelle-Zélande sont polygames et territoriaux. Avant les périodes de reproduction, les mâles colonisent un territoire et le défendent avec des vocalisations et des combats.",
 		"descriptionPart3": "Profondeur : 0 - 380 m (mâles) et 0 - 310 m (femelles)",
 		"gridRow": "102 / span 4",
-		"gridColumn": "4 / span 4",
+		"gridColumn": "5 / span 4",
 		"sources": [
 			"https://fr.wikipedia.org/wiki/Otarie_%C3%A0_fourrure_de_Nouvelle-Z%C3%A9lande"
 		]
@@ -355,7 +355,7 @@
 		"nom": "Ahmed Gabr",
 		"descriptionPart1": "Le nageur Ahmed Gabr détient le record de profondeur en plongée profonde et technique autonome avec bouteilles trimix : 332,35 mètres. La descente a duré 12 minutes et la remontée qui s'est fait par paliers 15 heures.",
 		"gridRow": "110 / span 2",
-		"gridColumn": "3 / span 2",
+		"gridColumn": "2 / span 2",
 		"sources": [
 			"https://fr.wikipedia.org/wiki/Ahmed_Gabr",
 			"https://www.guinnessworldrecords.com/news/2014/9/ahmed-gabr-breaks-record-for-deepest-scuba-dive-at-more-than-1000-feet-60537"
@@ -369,7 +369,7 @@
 		"descriptionPart2": "La couche externe forme un hemocèle rempli de sang. Ce système circulatoire simple permet à l’ange de mer de respirer directement dans l’eau à travers sa peau.",
 		"descriptionPart3": "Profondeur : 0 - 350 m",
 		"gridRow": "115 / span 2",
-		"gridColumn": "5 / span 2",
+		"gridColumn": "6 / span 2",
 		"sources": [
 			"https://www.fishipedia.fr/fr/mollusques/clione-limacina"
 		]
@@ -382,7 +382,7 @@
 		"descriptionPart2": "Cette espèce est très venimeuse et peut causer de graves accidents au toucher. Cependant, les rencontres sont rares et cette espèce a tendance à fuir à l'approche de baigneurs / plongeurs.",
 		"descriptionPart3": "Profondeur : 1 - 381 m",
 		"gridRow": "120 / span 3",
-		"gridColumn": "2 / span 3",
+		"gridColumn": "1 / span 3",
 		"sources": [
 			"https://www.fishipedia.fr/fr/poissons/pteroplatytrygon-violacea"
 		]
@@ -395,7 +395,7 @@
 		"descriptionPart2": "Ce choc est aussi bien utilisé pour l'attaque et l'immobilisation de proies que pour la défense face aux prédateurs.",
 		"descriptionPart3": "Profondeur : 2 - 400 m",
 		"gridRow": "125 / span 3",
-		"gridColumn": "5 / span 3",
+		"gridColumn": "6 / span 3",
 		"sources": [
 			"https://www.fishipedia.fr/fr/poissons/torpedo-torpedo"
 		]
@@ -421,7 +421,7 @@
 		"descriptionPart2": "Sa réputation de mangeur d'hommes est largement exagérée. Il est en réalité responsable de très peu d'attaques sur l'Homme.",
 		"descriptionPart3": "Profondeur : 1 - 500 m",
 		"gridRow": "162 / span 6",
-		"gridColumn": "4 / span 4",
+		"gridColumn": "5 / span 4",
 		"sources": [
 			"https://www.fishipedia.fr/fr/poissons?sch=Requin%20mako",
 			"https://fr.wikipedia.org/wiki/Requin_mako"
@@ -513,7 +513,7 @@
 		"descriptionPart2": "En regardant le poisson ont peu très facilement confondre ses narines avec ses yeux.",
 		"descriptionPart3": "Profondeur : 300 - 800 m",
 		"gridRow": "224 / span 3",
-		"gridColumn": "6 / span 1",
+		"gridColumn": "7 / span 1",
 		"sources": [
 			"https://www.sciencedaily.com/releases/2020/03/200318143729.htm"
 		]
@@ -539,7 +539,7 @@
 		"descriptionPart2": "La rascasse brune a une tête imposante avec une bouche est fendue de grande taille. Comme chez les autres rascasses, cette dernière est protractile, c'est-à-dire qu'elle est capable de s'agrandir et de s'allonger pour capturer et absorber les proies.",
 		"descriptionPart3": "Profondeur : 0 - 800 m",
 		"gridRow": "260 / span 3",
-		"gridColumn": "5 / span 3",
+		"gridColumn": "6 / span 3",
 		"sources": [
 			"https://www.fishipedia.fr/fr/poissons/scorpaena-porcus"
 		]
@@ -655,7 +655,7 @@
 		"descriptionPart2": "Une autre particuliarité de ces poissons est leurs migrations verticales quotidiennes : pendant les heures de clarté, la plupart des espèces restent dans la zone bathypélagique sombre , entre 300 et 1 500 m mais vers le coucher du soleil, les poissons commencent à monter dans la zone épipélagique, entre 10 et 100 m.",
 		"descriptionPart3": "Profondeur : 100 - 1500 m",
 		"gridRow": "360 / span 2",
-		"gridColumn": "5 / span 2",
+		"gridColumn": "6 / span 2",
 		"sources": [
 			"https://fr.wikipedia.org/wiki/Myctophidae"
 		]
@@ -668,7 +668,7 @@
 		"descriptionPart2": "Le requin-lézard a la période de gestation la plus longue chez un vertébré : elle peut durer trois ans et demi.",
 		"descriptionPart3": "Profondeur : 20 - 1500 m",
 		"gridRow": "367 / span 2",
-		"gridColumn": "3 / span 2",
+		"gridColumn": "2 / span 2",
 		"sources": [
 			"https://fr.wikipedia.org/wiki/Requin-l%C3%A9zard"
 		]
@@ -732,7 +732,7 @@
 		"descriptionPart1": "Le grand avaleur est une espèce de poissons abyssaux qui se caractérise par l'extensibilité des mâchoires supérieure et inférieure et par l'élasticité de son estomac (ce qui lui permet d'avaler des proies plus grandes que lui, jusqu'à plus de quatre fois sa taille). Sa taille ne dépasse pas 25 centimètres.",
 		"descriptionPart2": "Profondeur : 700 - 2745 m",
 		"gridRow": "430 / span 2",
-		"gridColumn": "6 / span 2",
+		"gridColumn": "7 / span 2",
 		"sources": [
 			"https://fr.wikipedia.org/wiki/Grand_avaleur"
 		]
