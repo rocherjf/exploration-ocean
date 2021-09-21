@@ -80,7 +80,7 @@
 		"nom": "Congre vert",
 		"descriptionPart1": "Le congre vert fait partie de la famille des murènes. Les poissons de cette famille sont caractérisés par l’absence de nageoires paires, une peau lisse et épaisse sans écailles.",
 		"gridRow": "14 / span 3",
-		"gridColumn": "8 / span 1",
+		"gridColumn": "7 / span 2",
 		"sources": ""
 	},
 	{
@@ -502,7 +502,7 @@
 		"descriptionPart2": "En regardant le poisson ont peu très facilement confondre ses narines avec ses yeux.",
 		"descriptionPart3": "Profondeur : 300 - 800 m",
 		"gridRow": "224 / span 3",
-		"gridColumn": "7 / span 1",
+		"gridColumn": "6 / span 3",
 		"sources": [
 			"https://www.sciencedaily.com/releases/2020/03/200318143729.htm"
 		]
