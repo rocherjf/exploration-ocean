@@ -47,7 +47,7 @@
 		"descriptionPart1": "Leur carapace mesure en moyenne 115 cm et l'animal pèse entre 80 et 130 kg. Certains spécimens peuvent atteindre un poids de 300 kg pour une longueur de carapace de 1,5 m.",
 		"descriptionPart2": "C’est la plus rapide des tortues marines : elle peut atteindre une vitesse de près de 35 km/h",
 		"gridRow": "9 / span 3",
-		"gridColumn": "7 / span 2",
+		"gridColumn": "6 / span 2",
 		"sources": ""
 	},
 	{
@@ -71,7 +71,7 @@
 		"descriptionPart2": "Le chirurgien bleu fréquente les zones de 2 à 40 mètres de profondeur, notamment au niveau des récifs.",
 		"descriptionPart3": "Il se nourrit principalement de zooplancton mais peut s'alimenter aussi d’algues vivant sur les fonds marins. Pour se défendre de ses prédateurs, il a une épine cachée contre son corps à la base de sa queue.",
 		"gridRow": "12 / span 2",
-		"gridColumn": "3 / span 2",
+		"gridColumn": "4 / span 2",
 		"sources": ""
 	},
 	{
@@ -136,7 +136,7 @@
 		"descriptionPart1": "Il existe plus de 50 d'hippocampes différents, une de leur particularité étant que c'est le mâle qui effectue la gestation de 5 à 1 800 œufs pondus dans sa poche ventrale par la femelle",
 		"descriptionPart2": "La profondeur à laquelle vit un hippocampe dépent beaucoup de son espéce. Pour les Hippocampe ailé : 5 - 80m",
 		"gridRow": "27 / span 3",
-		"gridColumn": "2 / span 2",
+		"gridColumn": "1 / span 2",
 		"sources": ""
 	},
 	{
