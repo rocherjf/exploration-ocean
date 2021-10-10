@@ -22,7 +22,6 @@ body {
   top : 5%;
   left: 10%;
   border: none;
-  height: 170px;
   position : absolute;
   z-index: 1;
 }
