@@ -10,8 +10,17 @@ var elementCliquable = ["animal-img", "animal-legende", "wrapper-animal"];
 let elements = [];
 let textes = [];
 
+
+// Mode DEV
+// let urlElementOcean = "http://localhost:3000/static/element_marins.json";
+// let urlTexteOcean = "http://localhost:3000/static/textes.json";
+
+// Mode Prod
+let urlElementOcean = "https://raw.githubusercontent.com/rocherjf/exploration-ocean/main/element_marins.json";
+let urlTexteOcean = 'https://raw.githubusercontent.com/rocherjf/exploration-ocean/main/textes.json';
+
 function initOcean() {
-  fetch('https://raw.githubusercontent.com/rocherjf/exploration-ocean/main/element_marins.json')
+  fetch(urlElementOcean)
     .then((res) => {
       return res.json();
     })
@@ -23,7 +32,7 @@ function initOcean() {
       console.error(err);
     });
 
-    fetch('https://raw.githubusercontent.com/rocherjf/exploration-ocean/main/textes.json')
+    fetch(urlTexteOcean)
     .then((res) => {
       return res.json();
     })
@@ -51,12 +60,21 @@ function initialiserElements() {
       description += "<br><br>" + element.descriptionPart3;
     }
 
-    elementAAjouter =
+    /*elementAAjouter =
       `<div class="wrapper-animal"  id="${element.id}-wrapper"  onclick="afficherInfo('${element.id}-info')" style="grid-row: ${element.gridRow};grid-column: ${element.gridColumn};">
         <img alt="Image d'un ${element.nom}" class="animal-img" src="img/${element.img}">
         <div class="animal-legende">${element.nom}</div>
         <span class="animal-info" id="${element.id}-info">${description}</span>
-      </div>`;
+      </div>`;*/
+
+      elementAAjouter =
+      `<figure class="wrapper-animal"  id="${element.id}-wrapper"  onclick="afficherInfo('${element.id}-info')" style="grid-row: ${element.gridRow};grid-column: ${element.gridColumn};">
+          <img class="animal-img" src="img/${element.img}" alt="Image d'un ${element.nom}">
+          <figcaption class="animal-legende">${element.nom}</figcaption>
+        </figure>`;
+
+
+
     ocean.innerHTML += elementAAjouter;
   })
 
@@ -82,11 +100,15 @@ function majProfondeur() {
 
   // changement d'échelle en fonction de la profondeur
   if (e >= 1500) {
+    console.log('ICI');
     e = Math.min(10925, Math.floor(3500 + (e - 1500) * 5.3085));
   }
   if (e > 1000 && e < 1500) {
+    console.log('LA');
     e = e + (e - 1000) * 4;
   }
+
+  console.log(e);
 
   if (e < 0) {
     document.querySelector("#profondeur").hidden = true;
