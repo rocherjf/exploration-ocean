@@ -5,7 +5,7 @@
 		"nom": "Saumon atlantique",
 		"descriptionPart1": "Pendant ses premières années d'existence (2 - 3 ans en France et 4 - 5 ans en Norvège), le saumon vit en haut des rivières à fort courants dans des zones peu profondes.",
 		"descriptionPart2": "Il va ensuite vivre dans l'océan athantique puis il retourne dans la rivière qui l'a vu naître grâce à sa mémoire olfactive pour se reproduire avant de retourner dans l'océan.",
-		"gridRow": "1 / span 2",
+		"gridRow": "1 / span 1",
 		"gridColumn": "1 / span 2",
 		"sources": [
 			"https://www.fishipedia.fr/fr/poissons?sch=saumon"
@@ -17,7 +17,7 @@
 		"nom": "Poisson hachette",
 		"descriptionPart1": "Les poissons hachettes ont une bouche surprenante, sa forme leur permet de se nourrir d'insectes tout juste tombés dans l'eau très facilement.",
 		"descriptionPart2": "Le poisson hachette est un excellent sauteur, utilisant naturellement cette faculté pour changer de zone de vie ou pour échapper à des prédateurs.",
-		"gridRow": "1 / span 2",
+		"gridRow": "1 / span 1",
 		"gridColumn": "4 / span 2",
 		"sources": "https://www.fishipedia.fr/fr/poissons/gasteropelecus-maculatus"
 	},
@@ -826,7 +826,7 @@
 		"nom": "Grenadier",
 		"descriptionPart1": "Les grenadiers ou poissons queue de rat (Macrouridae) forment une famille de poissons vivant dans les abysses",
 		"descriptionPart2": "Les grenadiers produisent un grand nombre (plus de 100 000) d'œufs minuscules (1-2 millimètres de diamètre) rendus flottants par des gouttelettes de lipides. On suppose que les œufs flottent jusqu'à la thermocline (l'interface entre les eaux de surface plus chaudes et les eaux froides et plus profondes) où ils se développent.",
-		"descriptionPart2": "Profondeur : 200 - 6000 m",
+		"descriptionPart3": "Profondeur : 200 - 6000 m",
 		"gridRow": "656 / span 3",
 		"gridColumn": "2 / span 3",
 		"sources": [

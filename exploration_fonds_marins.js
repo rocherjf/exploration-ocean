@@ -12,12 +12,12 @@ let textes = [];
 
 
 // Mode DEV
-// let urlElementOcean = "http://localhost:3000/static/element_marins.json";
-// let urlTexteOcean = "http://localhost:3000/static/textes.json";
+let urlElementOcean = "http://localhost:3000/static/element_marins.json";
+let urlTexteOcean = "http://localhost:3000/static/textes.json";
 
 // Mode Prod
-let urlElementOcean = "https://raw.githubusercontent.com/rocherjf/exploration-ocean/main/element_marins.json";
-let urlTexteOcean = 'https://raw.githubusercontent.com/rocherjf/exploration-ocean/main/textes.json';
+// let urlElementOcean = "https://raw.githubusercontent.com/rocherjf/exploration-ocean/main/element_marins.json";
+// let urlTexteOcean = 'https://raw.githubusercontent.com/rocherjf/exploration-ocean/main/textes.json';
 
 function initOcean() {
   fetch(urlElementOcean)
@@ -67,11 +67,21 @@ function initialiserElements() {
         <span class="animal-info" id="${element.id}-info">${description}</span>
       </div>`;*/
 
-      elementAAjouter =
-      `<figure class="wrapper-animal"  id="${element.id}-wrapper"  onclick="afficherInfo('${element.id}-info')" style="grid-row: ${element.gridRow};grid-column: ${element.gridColumn};">
+      /*elementAAjouter =
+      `<div class="wrapper-animal"  id="${element.id}-wrapper"  onclick="afficherInfo('${element.id}-info')" style="grid-row: ${element.gridRow};grid-column: ${element.gridColumn};">
+      <figure>
           <img class="animal-img" src="img/${element.img}" alt="Image d'un ${element.nom}">
           <figcaption class="animal-legende">${element.nom}</figcaption>
-        </figure>`;
+        </figure>
+      </div>`;*/
+
+      elementAAjouter =
+      `<div class="container-figure" style="grid-row: ${element.gridRow};grid-column: ${element.gridColumn};">
+        <figure class="wrapper-animal"  id="${element.id}-wrapper"  onclick="afficherInfo('${element.id}-info')" >
+          <img class="animal-img" src="img/${element.img}" alt="Image d'un ${element.nom}">
+          <figcaption class="animal-legende">${element.nom}</figcaption>
+        </figure>
+      </div>`;
 
 
 
@@ -107,8 +117,6 @@ function majProfondeur() {
     console.log('LA');
     e = e + (e - 1000) * 4;
   }
-
-  console.log(e);
 
   if (e < 0) {
     document.querySelector("#profondeur").hidden = true;
