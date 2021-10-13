@@ -1,6 +1,5 @@
 html, body { 
   height: 100%; 
-  
 }
 
 
@@ -297,7 +296,6 @@ figure {
 }
 
 #pied-de-page-titre {
-  font-size: 2rem;
   color:#0909b1;
   font-weight: 700;
   text-align: center;
@@ -305,20 +303,52 @@ figure {
 
 #pied-de-page-auteur {
   margin-top: 2.5%;
-  font-size: 1.5rem;
   color:#2929eb;
 }
 
 #pied-de-page-remerciement {
   margin-top: 2.5%;
-  font-size: 1.5rem;
   color:#2929eb;
 }
 
 #pied-de-page-plus-de-projets {
   margin-top: 5%;
-  font-size: 1.5rem;
   color:#2929eb;
 }
 
 
+@media only screen and (max-width: 500px){
+  #pied-de-page-titre {
+    font-size: 2rem;
+  }
+
+  #pied-de-page-auteur {
+    font-size: 1rem;
+  }
+
+  #pied-de-page-remerciement{
+    font-size: 1rem;
+  }
+
+  #pied-de-page-plus-de-projets{
+    font-size: 1rem;
+  }
+}
+
+@media only screen and (min-width: 500px){
+  #pied-de-page-titre {
+    font-size: 3rem;
+  }
+
+  #pied-de-page-auteur {
+    font-size: 1.5rem;
+  }
+
+  #pied-de-page-remerciement{
+    font-size: 1.5rem;
+  }
+
+  #pied-de-page-plus-de-projets{
+    font-size: 1.5rem;
+  }
+}
