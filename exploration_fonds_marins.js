@@ -8,12 +8,12 @@ let textes = [];
 
 
 // Mode DEV
-let urlElementOcean = "http://localhost:3000/static/element_marins.json";
-let urlTexteOcean = "http://localhost:3000/static/textes.json";
+// let urlElementOcean = "http://localhost:3000/static/element_marins.json";
+// let urlTexteOcean = "http://localhost:3000/static/textes.json";
 
 // Mode Prod
-// let urlElementOcean = "https://raw.githubusercontent.com/rocherjf/exploration-ocean/main/element_marins.json";
-// let urlTexteOcean = 'https://raw.githubusercontent.com/rocherjf/exploration-ocean/main/textes.json';
+let urlElementOcean = "https://raw.githubusercontent.com/rocherjf/exploration-ocean/main/element_marins.json";
+let urlTexteOcean = 'https://raw.githubusercontent.com/rocherjf/exploration-ocean/main/textes.json';
 
 function initOcean() {
   fetch(urlElementOcean)
