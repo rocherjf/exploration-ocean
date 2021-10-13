@@ -826,7 +826,7 @@
 		"nom": "Grenadier",
 		"descriptionPart1": "Les grenadiers ou poissons queue de rat (Macrouridae) forment une famille de poissons vivant dans les abysses",
 		"descriptionPart2": "Les grenadiers produisent un grand nombre (plus de 100 000) d'œufs minuscules (1-2 millimètres de diamètre) rendus flottants par des gouttelettes de lipides. On suppose que les œufs flottent jusqu'à la thermocline (l'interface entre les eaux de surface plus chaudes et les eaux froides et plus profondes) où ils se développent.",
-		"descriptionPart2": "Profondeur : 200 - 6000 m",
+		"descriptionPart3": "Profondeur : 200 - 6000 m",
 		"gridRow": "656 / span 3",
 		"gridColumn": "2 / span 3",
 		"sources": [
