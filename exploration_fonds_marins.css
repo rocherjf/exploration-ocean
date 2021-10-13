@@ -150,43 +150,6 @@ figure {
   text-align: center;
 }
 
-/* info sur l'animal*/
-.wrapper-animal .animal-info {
-  visibility: hidden;
-  
-  background-color: #555;
-  color: #fff;
-  text-align: justify;
-  border-radius: 12px;
-  padding: 8px 8px;
-  
-  z-index: 1;
-  
-  font-weight: lighter;
-  font-size: 1rem;
-
-  position: absolute;
-  bottom: 100%;
-  left: 10%;
-  width: 80%;
-  
-}
-
-
-
-
-
-/* afficher/masquer les infos */
-.animal-info.show {
-  visibility: visible;
-  -webkit-animation: fadeIn 1s;
-  animation: fadeIn 1s;
-}
-
-@keyframes fadeIn {
-  from {opacity: 0;}
-  to {opacity:1 ;}
-}
 
 
 .animal-img {
@@ -211,14 +174,14 @@ figure {
 }
 
 
-
-
 .animal-legende {
  text-transform: uppercase;
  font-weight: lighter;
  color: rgb(255, 255, 150);
  text-align: center;
 }
+
+
 
 @media only screen and (max-width: 500px) {
   .animal-legende {
@@ -230,6 +193,10 @@ figure {
   .animal-legende {
       font-size:1.1rem;
   }
+}
+
+.animal-description {
+  display: none;
 }
 
 

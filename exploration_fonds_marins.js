@@ -2,10 +2,6 @@ const ocean = document.getElementById('ocean');
 
 window.onscroll = function () { majProfondeur() };
 window.onload = function () { initOcean() };
-window.onclick = function (element) { detectionClic(element) };
-
-// pas mis animal-info
-var elementCliquable = ["animal-img", "animal-legende", "wrapper-animal"];
 
 let elements = [];
 let textes = [];
@@ -32,7 +28,7 @@ function initOcean() {
       console.error(err);
     });
 
-    fetch(urlTexteOcean)
+  fetch(urlTexteOcean)
     .then((res) => {
       return res.json();
     })
@@ -60,27 +56,13 @@ function initialiserElements() {
       description += "<br><br>" + element.descriptionPart3;
     }
 
-    /*elementAAjouter =
-      `<div class="wrapper-animal"  id="${element.id}-wrapper"  onclick="afficherInfo('${element.id}-info')" style="grid-row: ${element.gridRow};grid-column: ${element.gridColumn};">
-        <img alt="Image d'un ${element.nom}" class="animal-img" src="img/${element.img}">
-        <div class="animal-legende">${element.nom}</div>
-        <span class="animal-info" id="${element.id}-info">${description}</span>
-      </div>`;*/
-
-      /*elementAAjouter =
-      `<div class="wrapper-animal"  id="${element.id}-wrapper"  onclick="afficherInfo('${element.id}-info')" style="grid-row: ${element.gridRow};grid-column: ${element.gridColumn};">
-      <figure>
+    elementAAjouter =
+      `<div class="container-figure" style="grid-row: ${element.gridRow};grid-column: ${element.gridColumn};" id="${element.id}-wrapper">
+        <figure class="wrapper-animal"   onclick="afficherInfo('${element.id}')" >
           <img class="animal-img" src="img/${element.img}" alt="Image d'un ${element.nom}">
-          <figcaption class="animal-legende">${element.nom}</figcaption>
+          <figcaption id="${element.id}-titre" class="animal-legende">${element.nom}</figcaption>
         </figure>
-      </div>`;*/
-
-      elementAAjouter =
-      `<div class="container-figure" style="grid-row: ${element.gridRow};grid-column: ${element.gridColumn};">
-        <figure class="wrapper-animal"  id="${element.id}-wrapper"  onclick="afficherInfo('${element.id}-info')" >
-          <img class="animal-img" src="img/${element.img}" alt="Image d'un ${element.nom}">
-          <figcaption class="animal-legende">${element.nom}</figcaption>
-        </figure>
+        <p class="animal-description" id="${element.id}-info">${description}</p>
       </div>`;
 
 
@@ -90,14 +72,14 @@ function initialiserElements() {
 
 }
 
-function initialiserTextes(){
+function initialiserTextes() {
 
   textes.forEach(texte => {
     elementAAjouter =
-    `<div class="wrapper-texte"  id="${texte.id}-wrapper"  style="grid-row: ${texte.gridRow};grid-column: ${texte.gridColumn};">
+      `<div class="wrapper-texte"  id="${texte.id}-wrapper"  style="grid-row: ${texte.gridRow};grid-column: ${texte.gridColumn};">
       <span>${texte.description}</span>
     </div>`;
-  ocean.innerHTML += elementAAjouter;
+    ocean.innerHTML += elementAAjouter;
 
   })
 
@@ -105,16 +87,13 @@ function initialiserTextes(){
 
 function majProfondeur() {
 
-  //let e = Math.floor(Math.min(10924, window.scrollY / 50 * 3 - 12));
   let e = Math.floor(window.scrollY / 50 * 3 - 12);
 
   // changement d'échelle en fonction de la profondeur
   if (e >= 1500) {
-    console.log('ICI');
     e = Math.min(10925, Math.floor(3500 + (e - 1500) * 5.3085));
   }
   if (e > 1000 && e < 1500) {
-    console.log('LA');
     e = e + (e - 1000) * 4;
   }
 
@@ -151,35 +130,24 @@ function majProfondeur() {
 
   }
 
-  masquerInfo();
-
 }
 
-// permet de cacher ttes les infos sauf si on clic sur une zone déjà cliquable 
-// (cas traité dans une autre fonction)
-function detectionClic(element) {
 
-  if (!elementCliquable.includes(element.target.className)) {
-    masquerInfo()
-  }
-
-}
-
-function afficherInfo(idInfo) {
+function afficherInfo(idElement) {
   // masquer la ligne de profondeur pour mieux visualiser les infos
   document.querySelector("#profondeur").hidden = true;
   document.querySelector("#profondeur-texte-wrapper").hidden = true;
 
-  // masquer les autres infos
-  masquerInfo();
+  // afficher la fenêtre modale
+  Swal.fire({
+    title: document.querySelector(`#${idElement}-titre`).innerHTML,
+    html: document.querySelector(`#${idElement}-info`).innerHTML,
+  }).then(() => afficherIndicateurProfondfeur());
 
-  let info = document.getElementById(idInfo);
-  info.classList.add("show");
 }
 
-function masquerInfo() {
-  const popups = document.querySelectorAll(".animal-info.show");
-  popups.forEach(function (info) {
-    info.classList.remove("show");
-  });
+
+function afficherIndicateurProfondfeur() {
+  document.querySelector("#profondeur").hidden = false;
+  document.querySelector("#profondeur-texte-wrapper").hidden = false;
 }
