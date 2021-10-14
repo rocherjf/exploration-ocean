@@ -12,8 +12,8 @@ let textes = [];
 // let urlTexteOcean = "http://localhost:3000/static/textes.json";
 
 // Mode Prod
-let urlElementOcean = "https://raw.githubusercontent.com/rocherjf/exploration-ocean/main/element_marins.json";
-let urlTexteOcean = 'https://raw.githubusercontent.com/rocherjf/exploration-ocean/main/textes.json';
+let urlElementOcean = "element_marins.json";
+let urlTexteOcean = 'textes.json';
 
 function initOcean() {
   fetch(urlElementOcean)
