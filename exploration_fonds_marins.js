@@ -6,12 +6,6 @@ window.onload = function () { initOcean() };
 let elements = [];
 let textes = [];
 
-
-// Mode DEV
-// let urlElementOcean = "http://localhost:3000/static/element_marins.json";
-// let urlTexteOcean = "http://localhost:3000/static/textes.json";
-
-// Mode Prod
 let urlElementOcean = "element_marins.json";
 let urlTexteOcean = 'textes.json';
 
@@ -57,7 +51,7 @@ function initialiserElements() {
     }
 
     elementAAjouter =
-      `<div class="container-figure" style="grid-row: ${element.gridRow};grid-column: ${element.gridColumn};" id="${element.id}-wrapper">
+      `<div class="container-figure" style="--grid-row: ${element.gridRow};--grid-column: ${element.gridColumn};--grid-row-small: ${element.gridRowSmall};--grid-column-small: ${element.gridColumnSmall};" id="${element.id}-wrapper">
         <figure class="wrapper-animal"   onclick="afficherInfo('${element.id}')" >
           <img class="animal-img" src="img/${element.img}" alt="Image d'un ${element.nom}">
           <figcaption id="${element.id}-titre" class="animal-legende">${element.nom}</figcaption>
